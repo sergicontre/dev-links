@@ -243,3 +243,46 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+
+/* Addons */
+body .main-content h3 {
+  font-size: 2rem;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+body .main-content small {
+  color: #aaa;
+  display: block;
+  margin: 0 0 20px 0;
+  text-align: center;
+}
+
+body .main-content ul {
+  margin: 0;
+  list-style-type: none;
+  padding: 0;
+}
+
+body .main-content li {
+  border-top: 1px solid #e5e5e5;
+  padding: 10px 0;
+  text-align: center;
+}
+
+body .main-content h4 {
+  display: inline-block;
+  margin: 0;
+}
+
+body .main-content .tag {
+  background: #eee;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 12px;
+  padding: 2px 8px;
+  position: relative;
+  top: -2px;
+}
