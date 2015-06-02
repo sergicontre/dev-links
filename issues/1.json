@@ -1,0 +1,41 @@
+{
+	"number": "1",
+	"date": "26-04-2015",
+	"items": [
+		{
+			"url": "https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015"
+			"desc": "Presentation about Chrome Dev Tools",
+			"tags": ["chrome"]
+		},
+		{
+			"url": "http://genius.it/ejohn.org/files/jquery-original.html",
+			"desc": "Original jQuery code - with John Resig comments",
+			"tags": ["js"]
+		},
+		{
+			"url": "https://blog.korelogic.com/blog/2015/01/12/javascript_deobfuscation",
+			"desc": "Article about JavaScript deobfuscation",
+			"tags": ["js"]
+		},
+		{
+			"url": "http://toddmotto.com/es6-arrow-functions-syntaxes-and-lexical-scoping/",
+			"desc": "Article about arrow functions in ECMAScript 6",
+			"tags": ["js","es2015"]
+		},
+		{
+			"url": "http://www.2ality.com/2015/04/numbers-math-es6.html",
+			"desc": "Numbers and Math in ECMAScript 6",
+			"tags": ["js","es2015"]
+		},
+		{
+			"url": "http://youtu.be/uaGotppPsCs",
+			"desc": "'What is branding?' - beautiful and minimalistic animation",
+			"tags": ["video"]
+		},
+		{
+			"url": "http://zurb.com/patterntap",
+			"desc": "Patterntap - collection of UI/UX inspirations",
+			"tags": ["ui","ux"]
+		}
+	]
+}
