@@ -271,8 +271,14 @@ body .main-content li {
   text-align: center;
 }
 
+body .main-content li:after {
+	clear: both;
+	content: "";
+	display: table;
+}
+
 body .main-content h4 {
-  display: inline-block;
+  float: left;
   margin: 0;
 }
 
@@ -280,9 +286,9 @@ body .main-content .tag {
   background: #eee;
   border: 1px solid #ddd;
   border-radius: 3px;
-  display: inline-block;
+  float: right;
   font-size: 12px;
   padding: 2px 8px;
   position: relative;
-  top: -2px;
+  top: 2px;
 }
