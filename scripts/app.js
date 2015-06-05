@@ -9,12 +9,12 @@
 		$.getJSON("issues/"+last+".json?token=" + new Date().getTime(), function(data) {	
 			if(parseInt(last) > parseInt(data.number)) {
 				data.next = true;
-				data.nextNumber = data.number + 1;
+				data.nextNumber = parseInt(data.number) + 1;
 			}
 			
 			if(parseInt(data.number) > 1) {
 				data.prev = true;
-				data.prevNumber = data.number - 1;
+				data.prevNumber = parseInt(data.number) - 1;
 			}
 			
 			var issue_content = template(data);

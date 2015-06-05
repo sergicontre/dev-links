@@ -293,3 +293,35 @@ body .main-content .tag {
   position: relative;
   top: 2px;
 }
+
+.issue {
+	position: relative;
+}
+
+.issue a.next,
+.issue a.prev {
+  color: #aaa;
+  font-size: 48px;
+  font-weight: normal;
+  position: absolute;
+  text-decoration: none;
+  top: 5px;
+}
+
+.issue a.next {
+  right: 0;
+}
+
+.issue a.prev {
+  left: 0;
+}
+
+.issue a:active,
+.issue a:focus,
+.issue a:hover {
+  color: #159957;
+}
+
+.issue li a:visited {
+  color: #aaa;
+}
