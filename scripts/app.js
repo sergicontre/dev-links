@@ -6,7 +6,7 @@
 	$.getJSON("issues/issues.json", function(data) {
 		last = data.last;
 		
-		$.getJSON("issues/"+last+".json", function(data) {	
+		$.getJSON("issues/"+last+".json?token=" + new Date().getTime(), function(data) {	
 			if(parseInt(last) > parseInt(data.number)) {
 				data.next = true;
 				data.nextNumber = data.number + 1;
@@ -30,7 +30,7 @@
 		}
 		
 		if(toLoad) {
-			$.getJSON("issues/"+last+".json", function(data) {	
+			$.getJSON("issues/"+last+".json?token=" + new Date().getTime(), function(data) {	
 				if(parseInt(last) > parseInt(data.number)) {
 					data.next = true;
 					data.nextNumber = data.number + 1;
