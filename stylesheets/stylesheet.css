@@ -325,3 +325,10 @@ body .main-content .tag {
 .issue li a:visited {
   color: #aaa;
 }
+
+@media (max-width: 1020px) {
+	.issue h4,
+	.issue .tag {
+		float: none!important;
+	}
+}
