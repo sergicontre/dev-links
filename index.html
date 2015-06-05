@@ -31,6 +31,14 @@
 		<h3>Issue #{{number}}</h3>
 		<small>Released: {{date}}</small>
 		
+		{{#if prev}}
+		<a href="#{{prevNumber}}" class="prev">&lsaquo;</a>
+		{{/if}}
+		
+		{{#if next}}
+		<a href="#{{nextNumber}}" class="next">&rsaquo;</a>
+		{{/if}}
+		
 		<ul>
 			{{#each items}}
 			<li>
