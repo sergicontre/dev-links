@@ -328,6 +328,8 @@ body .main-content .tag {
 
 .rss {
 	display: block;
+	font-size: 12px;
+	padding: 30px 0;
 	text-align: center;
 }
 
