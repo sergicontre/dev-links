@@ -326,6 +326,11 @@ body .main-content .tag {
   color: #aaa;
 }
 
+.rss {
+	display: block;
+	text-align: center;
+}
+
 @media (max-width: 1020px) {
 	.issue h4,
 	.issue .tag {
