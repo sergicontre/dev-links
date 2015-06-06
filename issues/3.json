@@ -1,65 +1,55 @@
 {
 	"number": "3",
-	"date": "26-04-2015",
+	"date": "03-05-2015",
 	"items": [
 		{
-			"url": "https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b",
-			"desc": "Typical errors in accessibility",
-			"tags": ["ux", "accessibility"]
+			"url": "https://github.com/bendc/sprint",
+			"desc": "Sprint.js - small and efficient library for DOM operations",
+			"tags": ["js", "DOM", "library"]
 		},
 		{
-			"url": "https://www.udacity.com/course/ud860",
-			"desc": "Online course about front-end performance",
-			"tags": ["js", "chrome"]
+			"url": "http://davidwalsh.name/webp-images-performance",
+			"desc": "WebP images performance",
+			"tags": ["performance", "webp", "images"]
 		},
 		{
-			"url": "http://resources.mobify.com/tablet-web-design.html",
-			"desc": "Free e-book about RWD for tablets",
-			"tags": ["rwd", "free", "book"]
+			"url": "https://css-tricks.com/more-control-over-text-decoration/",
+			"desc": "More control over text-decoration",
+			"tags": ["css", "typography"]
 		},
 		{
-			"url": "http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web",
-			"desc": "Push notifications in Chrome for Android",
-			"tags": ["js","android"]
+			"url": "https://videos.pexels.com/",
+			"desc": "Video collection on the CC0 license",
+			"tags": ["css", "typography"]
 		},
 		{
-			"url": "http://howtocenterincss.com/",
-			"desc": "Center element generator",
-			"tags": ["css","generator"]
+			"url": "http://updates.html5rocks.com/2015/04/devtools-timeline-improvements",
+			"desc": "Chrome DevTools timeline improvements",
+			"tags": ["chrome", "devtools", "performance"]
 		},
 		{
-			"url": "http://electron.atom.io/",
-			"desc": "Electron - built desktop applications using Web technologies",
-			"tags": ["html", "css", "desktop"]
+			"url": "http://devtoolstips.com/post/117168191446/with-devtools-opened-click-and-hold-the-reload",
+			"desc": "How to get more page reload options in Chrome",
+			"tags": ["chrome", "devtools"]
 		},
 		{
-			"url": "http://stackoverflow.com/research/developer-survey-2015/",
-			"desc": "Results of the big StackOverflow survey for the developers",
-			"tags": ["stackoverflow","data"]
+			"url": "https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/",
+			"desc": "Deprecating non-secure HTTP",
+			"tags": ["mozilla", "SSL"]
 		},
 		{
-			"url": "http://www.angularjsbook.com/angular-basics/chapters/",
-			"desc": "Interactive book about AngularJS",
-			"tags": ["angularjs","free","book"]
+			"url": "https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/",
+			"desc": "Deprecating non-secure HTTP",
+			"tags": ["mozilla", "SSL"]
 		},
 		{
-			"url": "http://www.codecademy.com/learn/learn-angularjs",
-			"desc": "Online course about AngularJS",
-			"tags": ["angularjs","course"]
+			"url": "http://www.smashingmagazine.com/2015/04/29/design-principles-compositional-flow-and-rhythm/",
+			"desc": "Design principles - compositional flow and rhythm",
+			"tags": ["UX", "design"]
 		},
 		{
-			"url": "http://arasatasaygin.github.io/is.js/",
-			"desc": "is.js - small JavaScript comparision library",
-			"tags": ["js","library"]
-		},
-		{
-			"url": "https://www.youtube.com/watch?v=tMhJ4dXbmCM",
-			"desc": "JavaScript bind explained - short video",
-			"tags": ["js","video"]
-		},
-		{
-			"url": "https://fi.google.com/about/plan/ ",
-			"desc": "Great minimalistic animations and good usage of the Material Design elements",
+			"url": "http://www.creativepark.fr/",
+			"desc": "Great website with amazing and subtle animations",
 			"tags": ["layout-of-the-week","design"]
 		}
 	]

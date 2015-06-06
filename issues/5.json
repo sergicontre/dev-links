@@ -1,0 +1,52 @@
+{
+	"number": "5",
+	"date": "17-05-2015",
+	"items": [
+		{
+			"url": "http://www.webdesignernews.com/external/how-to-properly-simplify-your-web-design",
+			"desc": "How to properly simplify your web design",
+			"tags": ["ux", "design"]
+		},
+		{
+			"url": "http://www.sitepoint.com/top-5-material-design-frameworks-use-2015/",
+			"desc": "Top 5 material design frameworks",
+			"tags": ["material-design", "framework", "css"]
+		},
+		{
+			"url": "http://webdesignledger.com/web-design-2/best-practices-for-hamburger-menus",
+			"desc": "Best practices for hamburger menus",
+			"tags": ["ui"]
+		},
+		{
+			"url": "https://medium.com/@sall/the-future-of-web-design-is-hidden-in-the-history-of-architecture-1cc93ea854d0",
+			"desc": "The future of web design is hidden in the history of architecture",
+			"tags": ["design", "history", "architecture"]
+		},
+		{
+			"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript",
+			"desc": "A re-introduction to JavaScript",
+			"tags": ["js", "mozilla", "tutorial"]
+		},
+		{
+			"url": "http://materialdesignblog.com/upcoming-material-design-css-library-a-twitter-bootstrap-killer/",
+			"desc": "Upcoming material design CSS library a Twitter Bootstrap killer?",
+			"tags": ["material-design", "bootstrap"]
+		},
+		{
+			"url": "http://elijahmanor.github.io/talks/js-smells/",
+			"desc": "JS smells",
+			"tags": ["js", "code-review", "code-quality"]
+		},
+		{
+			"url": "http://copypastecharacter.com/",
+			"desc": "Copy paste character",
+			"tags": ["tools", "old-but-cool"]
+		},
+		
+		{
+			"url": "http://www.hermestocchetti.com/en/",
+			"desc": "Great scrolling effect",
+			"tags": ["layout-of-the-week","design"]
+		}
+	]
+}

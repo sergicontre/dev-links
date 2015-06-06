@@ -1,0 +1,79 @@
+{
+	"number": "4",
+	"date": "10-05-2015",
+	"items": [
+		{
+			"url": "https://html5sec.org/",
+			"desc": "HTML5 security cheatsheet",
+			"tags": ["html5", "security"]
+		},
+		{
+			"url": "https://github.com/blog/1997-atom-1-year-open-source-anniversary",
+			"desc": "Atom editor stats after 1 year",
+			"tags": ["editor","github"]
+		},
+		{
+			"url": "http://searchengineland.com/tested-googlebot-crawls-javascript-heres-learned-220157",
+			"desc": "How Google crawls JavaScript",
+			"tags": ["seo", "js"]
+		},
+		{
+			"url": "http://lanyrd.com/2015/fronttrends/slides/",
+			"desc": "Front-Trends 2015 presentations",
+			"tags": ["slides", "front-trends"]
+		},
+		{
+			"url": "https://umaar.com/dev-tips/",
+			"desc": "Collection of the Chrome Dev Tools tips",
+			"tags": ["chrome", "devtools"]
+		},
+		{
+			"url": "https://pornel.net/sse",
+			"desc": "SSE - Server Sends Events",
+			"tags": ["communication", "sse", "js"]
+		},
+		{
+			"url": "http://patternlab.io/",
+			"desc": "Atomic design",
+			"tags": ["design"]
+		},
+		{
+			"url": "http://exploringjs.com/",
+			"desc": "Free e-book about ES6",
+			"tags": ["es6", "js"]
+		},
+		{
+			"url": "http://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/",
+			"desc": "Basic screen reader commands",
+			"tags": ["accessibility", "screen-reader"]
+		},
+		{
+			"url": "http://www.smashingmagazine.com/2015/04/13/an-in-depth-overview-of-living-style-guide-tools/",
+			"desc": "Overview of living style guide tools",
+			"tags": ["style-guide", "tools"]
+		},
+		{
+			"url": "http://perf-tooling.today/",
+			"desc": "Performance resources collection",
+			"tags": ["performance", "collection"]
+		},
+		
+		{
+			"url": "https://dribbble.com/shots/2049610-404-Page",
+			"desc": "Interesting idea of the 404 page",
+			"tags": ["dribbble", "404"]
+		},
+		
+		{
+			"url": "https://twitter.com/lukew/status/591296890030915585",
+			"desc": "Classification of the * Menus",
+			"tags": ["fun", "ui", "twitter"]
+		},
+		
+		{
+			"url": "http://www.arsthanea.com/",
+			"desc": "Ars Thanea website",
+			"tags": ["layout-of-the-week","design"]
+		}
+	]
+}

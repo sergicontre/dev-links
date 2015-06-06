@@ -1,0 +1,62 @@
+{
+	"number": "4",
+	"date": "10-05-2015",
+	"items": [
+		{
+			"url": "",
+			"desc": "",
+			"tags": [""]
+		},
+		{
+			"url": "",
+			"desc": "",
+			"tags": [""]
+		},
+		{
+			"url": "",
+			"desc": "",
+			"tags": [""]
+		},
+		{
+			"url": "",
+			"desc": "",
+			"tags": [""]
+		},
+		{
+			"url": "",
+			"desc": "",
+			"tags": [""]
+		},
+		{
+			"url": "",
+			"desc": "",
+			"tags": [""]
+		},
+		{
+			"url": "",
+			"desc": "",
+			"tags": [""]
+		},
+		{
+			"url": "",
+			"desc": "",
+			"tags": [""]
+		},
+		{
+			"url": "",
+			"desc": "",
+			"tags": [""]
+		},
+		{
+			"url": "",
+			"desc": "",
+			"tags": [""]
+		},
+		
+		{
+			"url": "https://fi.google.com/about/plan/ ",
+			"desc": "Great minimalistic animations and good usage of the Material Design elements",
+			"tags": ["layout-of-the-week","design"]
+		}
+	]
+}

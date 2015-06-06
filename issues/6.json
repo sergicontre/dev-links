@@ -1,0 +1,73 @@
+{
+	"number": "6",
+	"date": "24-05-2015",
+	"items": [
+		{
+			"url": "http://sixrevisions.com/web-development/grunt-vs-gulp/",
+			"desc": "Grunt vs. Gulp",
+			"tags": ["automation-tools", "grunt", "gulp"]
+		},
+		{
+			"url": "http://plainjs.com/javascript/",
+			"desc": "PlainJS - for VanillaJS lovers",
+			"tags": ["vanilla-js", "js"]
+		},
+		{
+			"url": "http://www.businessinsider.com/how-to-mute-individual-tabs-in-google-chrome-2015-5",
+			"desc": "How to mute individual tabs in google chrome",
+			"tags": ["chrome", "audio"]
+		},
+		{
+			"url": "http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html",
+			"desc": "We have a problem with promises",
+			"tags": ["promises", "es6", "js"]
+		},
+		{
+			"url": "https://medium.com/@sachagreif/the-cost-of-performance-4132b6559fe4",
+			"desc": "The cost of performance",
+			"tags": ["performance"]
+		},
+		{
+			"url": "http://thiébaud.fr/robots.txt.html",
+			"desc": "How to robots.txt file helps hackers",
+			"tags": ["robots-txt", "security"]
+		},
+		{
+			"url": "https://medium.com/@julienetienne_/scalable-design-a36cb867ae3b",
+			"desc": "Scalable design",
+			"tags": ["design"]
+		},
+		{
+			"url": "https://blog.intercom.io/why-mobile-first-may-already-be-outdated/",
+			"desc": "Why mobile-first may already be outdated",
+			"tags": ["mobile-first", "rwd"]
+		},
+		{
+			"url": "http://codepen.io/technovore/pen/aOdGjY",
+			"desc": "Background animation with particles",
+			"tags": ["animation", "particles"]
+		},
+		{
+			"url": "https://medium.com/@jowitaziobro/7-future-web-design-trends-fba93eba6355",
+			"desc": "7 future web design trends",
+			"tags": ["design", "trends", "future"]
+		},
+		{
+			"url": "http://www.smashingmagazine.com/2015/05/14/functional-ux-design-animations/",
+			"desc": "Functional UX design animations",
+			"tags": ["ux", "design", "animations"]
+		},
+		{
+			"url": "http://sixrevisions.com/html/html-questions/",
+			"desc": "HTML knowledge quiz",
+			"tags": ["quiz"]
+		},
+		
+		{
+			"url": "http://dreamteam.pl/",
+			"desc": "Great animations and UI flow",
+			"tags": ["layout-of-the-week","design"]
+		}
+	]
+}
+
