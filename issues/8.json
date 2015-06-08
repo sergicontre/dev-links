@@ -13,13 +13,13 @@
 			"tags": ["js", "pdf", "library"]
 		},
 		{
-			"url": "Is ReactJS Fast?",
-			"desc": "http://blog.500tech.com/is-reactjs-fast/",
+			"url": "http://blog.500tech.com/is-reactjs-fast/",
+			"desc": "Is ReactJS Fast?",
 			"tags": ["js", "reactjs", "performance"]
 		},
 		{
-			"url": "Abstract class implementation in ES2015",
-			"desc": "http://stackoverflow.com/questions/30559225/how-to-create-abstract-base-class-in-javascript-that-cant-be-instantiated/30560872#30560872",
+			"url": "http://stackoverflow.com/questions/30559225/how-to-create-abstract-base-class-in-javascript-that-cant-be-instantiated/30560872#30560872",
+			"desc": "Abstract class implementation in ES2015",
 			"tags": ["js", "es2015"]
 		},
 		{
