@@ -1,0 +1,81 @@
+{
+	"number": "12",
+	"date": "05-07-2015",
+	"items": [
+		{
+			"url": "http://osvaldas.info/detecting-css-animation-transition-end-with-javascript",
+			"desc": "Detecting CSS animation transition end with JavaScript",
+			"tags": ["css", "js", "transition"]
+		},
+		{
+			"url": "http://nolanlawson.com/2015/06/30/safari-is-the-new-ie/",
+			"desc": "Safari is the new IE",
+			"tags": ["safari", "ie"]
+		},
+		{
+			"url": "https://scaleyourcode.com/interviews/interview/9",
+			"desc": "How CodePen handles 32M page views a month",
+			"tags": ["performance"]
+		},
+		{
+			"url": "https://aerotwist.com/blog/react-plus-performance-equals-what/",
+			"desc": "React + Performance = ?",
+			"tags": ["react", "performance"]
+		},
+		{
+			"url": "http://retrosite.ninja/",
+			"desc": "Retro site collection",
+			"tags": ["retro", "collection"]
+		},
+		{
+			"url": "http://jxnblk.com/writing/posts/mathematical-web-typography/",
+			"desc": "Mathematical web typography",
+			"tags": ["math", "typo"]
+		},
+		{
+			"url": "http://www.elischiff.com/blog/2015/7/1/redesigned",
+			"desc": "Re:designed",
+			"tags": ["design"]
+		},
+		{
+			"url": "https://historyoficons.com/",
+			"desc": "History of Icons",
+			"tags": ["icons"]
+		},
+		{
+			"url": "http://www.fastcodesign.com/3048139/what-is-zero-ui-and-why-is-it-crucial-to-the-future-of-design",
+			"desc": "What is zero UI and why is it crucial to the future of design",
+			"tags": ["ui", "zeroui"]
+		},
+		{
+			"url": "http://www.luisatencio.net/2015/05/optimizing-your-javascript-with.html",
+			"desc": "Optimizing your JavaScript with Functional Programming",
+			"tags": ["js"]
+		},
+		{
+			"url": "http://www.luisatencio.net/2015/06/currying-everything-in-javascript.html",
+			"desc": "Currying everything in JavaScript",
+			"tags": ["js", "currying"]
+		},
+		{
+			"url": "http://codepen.io/rachsmith/blog/hack-physics-and-javascript-1",
+			"desc": "Hack Physics and JavaScript ",
+			"tags": ["js", "physics"]
+		},
+		{
+			"url": "http://www.sitepoint.com/accessible-footnotes-css/",
+			"desc": "Accessible footnotes in CSS",
+			"tags": ["css", "accessibility"]
+		},
+		{
+			"url": "https://speakerdeck.com/ninjanails/death-to-icon-fonts",
+			"desc": "Death to icon fonts",
+			"tags": ["icons", "fonts"]
+		},
+		{
+			"url": "http://www.2ality.com/2015/06/tail-call-optimization.html",
+			"desc": "Tail call optimization",
+			"tags": ["es2015", "js"]
+		}
+	]
+}
