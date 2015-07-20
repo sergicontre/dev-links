@@ -1,0 +1,77 @@
+
+{
+	"number": "X",
+	"date": "20-07-2015",
+	"items": [
+		{
+			"url": "http://www.incaseofstairs.com/2015/06/es6-feature-performance/",
+			"desc": "ES6 Feature Performance",
+			"tags": ["es6","js","performance"]
+		},
+		{
+			"url": "https://www.youtube.com/watch?v=XeMDXlJ051s",
+			"desc": "How CSS and JavaScript can affect page rendering",
+			"tags": ["js","css","performance"]
+		},
+		{
+			"url": "https://hacks.mozilla.org/2015/06/power-surge-optimize-the-javascript-in-this-html5-game-using-firefox-developer-edition/",
+			"desc": "Power Surge – optimize the JavaScript in this HTML5 game using Firefox Developer Edition",
+			"tags": ["game","performance"]
+		},
+		{
+			"url": "https://github.com/petkaantonov/bluebird/wiki/Optimization-killers",
+			"desc": "Optimization killers",
+			"tags": ["optimization","js"]
+		},
+		{
+			"url": "http://www.sitepoint.com/12-little-known-css-facts-the-sequel/",
+			"desc": "12 Little-Known CSS Facts (The Sequel)",
+			"tags": ["css"]
+		},
+		{
+			"url": "http://msurguy.github.io/background-blur/",
+			"desc": "Image Blur Plugin",
+			"tags": ["js","plugin","blur"]
+		},
+		{
+			"url": "http://www.nngroup.com/articles/characteristics-minimalism/",
+			"desc": "The Characteristics of Minimalism in Web Design",
+			"tags": ["web-design","ui"]
+		},
+		{
+			"url": "https://medium.com/@hipolabs/test-cases-are-dead-long-live-checklists-26166dcb0e5d",
+			"desc": "Test Cases are dead, long live Checklists!",
+			"tags": ["testing"]
+		},
+		{
+			"url": "https://any-api.com/",
+			"desc": "AnyAPI - Over 100 High-quality Public APIs",
+			"tags": ["api","collection"]
+		},
+		{
+			"url": "http://google.github.io/physical-web/",
+			"desc": "Physical Web - Walk up and use anything",
+			"tags": ["web"]
+		},
+		{
+			"url": "http://eng.wealthfront.com/2015/06/implementing-netflix-redesign.html",
+			"desc": "Performant CSS Animations: Netflix Case Study",
+			"tags": ["css","animation","performance"]
+		},
+		{
+			"url": "https://jonobr1.github.io/two.js/",
+			"desc": "Two.js - two-dimensional drawing api geared towards modern web browsers",
+			"tags": ["js","library","canvas","svg","webgl"]
+		},
+		{
+			"url": "http://es-discourse.com/t/why-typeof-is-no-longer-safe/15",
+			"desc": "Why 'typeof' is no longer 'safe'",
+			"tags": ["js","es6"]
+		},
+		{
+			"url": "https://github.com/DrBoolean/mostly-adequate-guide#readme",
+			"desc": "Mostly adequate guide to FP (in javascript)",
+			"tags": ["js","functional-programming"]
+		}
+	]
+}
