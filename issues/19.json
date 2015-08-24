@@ -1,0 +1,101 @@
+{
+	"number": "19",
+	"date": "24-08-2015",
+	"items": [
+		{
+			"url": "http://codepen.io/rgg/full/QbRyOq/",
+			"desc": "Pure CSS Progress",
+			"tags": ["css","codepen","ui","progress-bar"]
+		},
+		{
+			"url": "https://css-tricks.com/making-charts-with-css/",
+			"desc": "Making Charts with CSS",
+			"tags": ["css","charts"]
+		},
+		{
+			"url": "http://jquerymy.com/",
+			"desc": "A lightweight jQuery plugin for complex two-way data binding in real time.",
+			"tags": ["jquery","plugin","data-binding"]
+		},
+		{
+			"url": "http://eyeondesign.aiga.org/the-typeface-that-turns-everyone-into-an-instant-speed-reader/",
+			"desc": "The Typeface That Turns Everyone Into an Instant Speed Reader",
+			"tags": ["typography"]
+		},
+		{
+			"url": "http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/",
+			"desc": "Laying Out A Flexible Future For Web Design With Flexbox",
+			"tags": ["css","flexbox"]
+		},
+		{
+			"url": "https://viget.com/extend/the-font-face-dilemma",
+			"desc": "The @font-face dilemma",
+			"tags": ["css","typography"]
+		},
+		{
+			"url": "http://graphism.fr/games/",
+			"desc": "Games for designers",
+			"tags": ["typography","fun","game"]
+		},
+		{
+			"url": "https://blog.risingstack.com/asynchronous-javascript/",
+			"desc": "The Evolution of Asynchronous JavaScript",
+			"tags": ["js","asynchronous"]
+		},
+		{
+			"url": "https://brightbrightgreat.com/2015/08/11/how-to-8-bit-hovers/",
+			"desc": "How-To: 8-Bit Hovers",
+			"tags": ["css","8bit"]
+		},
+		{
+			"url": "http://styleguide.mailchimp.com/writing-principles/",
+			"desc": "MailChimp Content Style Guide",
+			"tags": ["style-guide","content"]
+		},
+		{
+			"url": "https://viget.com/inspire/experiments-in-loading-how-long-will-you-wait",
+			"desc": "Experiments in Loading - How Long Will You Wait?",
+			"tags": ["ux","loading"]
+		},
+		{
+			"url": "http://glenmaddern.com/articles/css-modules",
+			"desc": "CSS Modules - Welcome to the Future",
+			"tags": ["css","modules"]
+		},
+		{
+			"url": "https://medium.com/user-experience-design-1/ui-mechanics-of-a-date-picker-792f2aceb8aa",
+			"desc": "UI Mechanics of a Date Picker",
+			"tags": ["ui","date-picker"]
+		},
+		{
+			"url": "http://uimovement.com/",
+			"desc": "UI Movement",
+			"tags": ["ui","collection"]
+		},
+		{
+			"url": "http://blog.getify.com/on-the-nature-of-timers/",
+			"desc": "http://blog.getify.com/on-the-nature-of-timers/",
+			"tags": ["js","timers"]
+		},
+		{
+			"url": "https://hacks.mozilla.org/2015/08/es6-in-depth-modules/",
+			"desc": "ES6 In Depth: Modules",
+			"tags": ["js","es6","modules"]
+		},
+		{
+			"url": "http://www.2ality.com/2015/08/object-literals-es5.html",
+			"desc": "Five little-known facts about ES5 object literals",
+			"tags": ["js","es5","literals"]
+		},
+		{
+			"url": "http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/",
+			"desc": "Bootstrap 4 alpha released",
+			"tags": ["css","bootstrap"]
+		},
+		{
+			"url": "http://www.sitepoint.com/speed-index-measuring-page-load-time-different-way/",
+			"desc": "Speed Index: Measuring Page Load Time a Different Way",
+			"tags": ["performance"]
+		}
+	]
+}
