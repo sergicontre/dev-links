@@ -1,0 +1,81 @@
+{
+	"number": "20",
+	"date": "31-08-2015",
+	"items": [
+		{
+			"url": "http://morgancarter.com.au/design-solutions/placeholder-avatars/",
+			"desc": "Placeholder Avatars",
+			"tags": ["ui","placeholder"]
+		},
+		{
+			"url": "http://simplaio.github.io/rucksack/",
+			"desc": "rucksack - A little bag of CSS superpowers",
+			"tags": ["css","post-css"]
+		},
+		{
+			"url": "http://www.sitepoint.com/firefox-40-profiling-javascript-performance-and-more/",
+			"desc": "Firefox 40: Profiling JavaScript Performance and More",
+			"tags": ["firefox","performance","js"]
+		},
+		{
+			"url": "http://www.jonikorpi.com/zoomable-ui-for-the-web/",
+			"desc": "Zoomable UI for the Web",
+			"tags": ["ui","zoom"]
+		},
+		{
+			"url": "http://uxmovement.com/forms/why-the-confirm-password-field-must-die/",
+			"desc": "Why the Confirm Password Field Must Die",
+			"tags": ["ui","ux"]
+		},
+	 	{
+			"url": "http://www.startlin.es/timelines/",
+			"desc": "Startlin.es - Explore Startups Timelines",
+			"tags": ["startup","visualization"]
+		},
+		{
+			"url": "http://angularjs.blogspot.com/2015/08/angular-1-and-angular-2-coexistence.html",
+			"desc": "Angular 1 and Angular 2 integration: the path to seamless upgrade",
+			"tags": ["angular","js"]
+		},
+		{
+			"url": "http://www.lightningdesignsystem.com/",
+			"desc": "Lightning Design System",
+			"tags": ["design", "css"]
+		},
+		{
+			"url": "http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/",
+			"desc": "BEMIT: Taking the BEM Naming Convention a Step Further",
+			"tags": ["css", "bem"]
+		},
+		{
+			"url": "https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a?ref=webdesignernews.com",
+			"desc": "The future of layout with CSS: Grid Layouts",
+			"tags": ["css","grid","layout"]
+		},
+				{
+			"url": "http://www.sitepoint.com/generating-useful-style-guide-sketch-app/",
+			"desc": "Generating a Useful Style Guide with Sketch App",
+			"tags": ["style-guide","sketch"]
+		},
+		{
+			"url": "https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback",
+			"desc": "Using requestIdleCallback",
+			"tags": ["performance", "idle"]
+		},
+		{
+			"url": "http://blog.rangle.io/angular-gulp-bestpractices/",
+			"desc": "6 Gulp Best Practices You Can Use Today to Radically Improve Your Development Experience",
+			"tags": ["gulp"]
+		},
+		{
+			"url": "https://raygun.io/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/",
+			"desc": "Useful Javascript debugging tips you didn’t know",
+			"tags": ["js","debug","tips"]
+		},
+		{
+			"url": "https://frontify.com/styleguide",
+			"desc": "Frontify - Create Beautiful Style Guides",
+			"tags": ["css","style-guide"]
+		}
+	]
+}
