@@ -1,0 +1,96 @@
+{
+	"number": "21",
+	"date": "08-09-2015",
+	"items": [
+		{
+			"url": "http://www.top5techs.com/2015/09/how-googles-new-logo-is-just-305-bytes.html",
+			"desc": "How Google's new logo is just 305 bytes?",
+			"tags": ["svg"]
+		},
+		{
+			"url": "http://roeierez.github.io/infinite-list/",
+			"desc": "Infinite list in javascript that scrolls in 60fps",
+			"tags": ["ui","performance"]
+		},
+		{
+			"url": "https://webdesignledger.com/layouts-website-animation",
+			"desc": "29 Website Layouts using Spectacular Animation Effects",
+			"tags": ["ui","animation","inspiration","collection"]
+		},
+		{
+			"url": "https://github.com/h2non/toxy",
+			"desc": "Toxy - Hackable HTTP proxy to simulate server failure scenarios and network conditions",
+			"tags": ["tools","http","testing"]
+		},
+		{
+			"url": "http://www.sitepoint.com/measuring-javascript-functions-performance/",
+			"desc": "Measuring JavaScript Functions’ Performance",
+			"tags": ["performance","js"]
+		},
+		{
+			"url": "http://ponyfoo.com/articles/es6-let-const-and-temporal-dead-zone-in-depth",
+			"desc": "ES6 Let, Const and the “Temporal Dead Zone” (TDZ) in Depth",
+			"tags": ["es6","tdz"]
+		},
+		{
+			"url": "https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d",
+			"desc": "5 Questions Every Unit Test Must Answer",
+			"tags": ["testing","unit-tests"]
+		},
+		{
+			"url": "http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html",
+			"desc": "New React Developer Tools",
+			"tags": ["react","js"]
+		},
+		{
+			"url": "https://auth0.com/blog/2015/08/28/getting-started-with-falcor/",
+			"desc": "Getting Started With Falcor",
+			"tags": ["falcor","json"]
+		},
+		{
+			"url": "http://www.gravitatedesign.com/blog/user-satisfaction-fewer-clicks/",
+			"desc": "User Satisfaction > Fewer Clicks",
+			"tags": ["ux"]
+		},
+		{
+			"url": "http://hovercards.com/",
+			"desc": "HoverCards - Get more content. Open fewer tabs.",
+			"tags": ["chrome","extension"]
+		},
+		{
+			"url": "https://github.com/joakimbeng/unistyle",
+			"desc": "Unistyle - Write modular and scalable CSS using the next version of ECMAScript",
+			"tags": ["css","es6"]
+		},
+		{
+			"url": "https://medium.com/@michaelvillar/improve-the-payment-experience-with-animations-3d1b0a9b810e",
+			"desc": "Improve the payment experience with animations",
+			"tags": ["ux","animations"]
+		},
+		{
+			"url": "https://www.lvh.io/posts/queryselectorall-from-an-element-probably-doesnt-do-what-you-think-it-does.html",
+			"desc": "querySelectorAll from an element probably doesn't do what you think it does",
+			"tags": ["js","dom"]
+		},
+		{
+			"url": "https://medium.com/@tomastrajan/proper-testing-of-angular-js-applications-with-es6-modules-8cf31113873f",
+			"desc": "Proper testing of Angular JS applications with ES6 modules",
+			"tags": ["testing","angularjs","es6","js"]
+		},
+		{
+			"url": "http://ponyfoo.com/articles/things-you-can-do-in-plain-javascript",
+			"desc": "Things you can do with native DOM",
+			"tags": ["dom","js"]
+		},
+		{
+			"url": "https://palant.de/2015/08/30/why-you-probably-want-to-disable-jqueryparsehtml-even-though-you-don-t-call-it",
+			"desc": "Why you probably want to disable jQuery.parseHTML even though you don't call it",
+			"tags": ["jquery","security","xss"]
+		},
+		{
+			"url": "https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda",
+			"desc": "7 Rules for Creating Gorgeous UI",
+			"tags": ["ui"]
+		}
+	]
+}
