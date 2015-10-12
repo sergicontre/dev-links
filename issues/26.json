@@ -1,0 +1,91 @@
+{
+    "number": "26",
+    "date": "12-10-2015",
+    "items": [
+        {
+            "url": "https://medium.com/@c2c/nodejs-a-quick-optimization-advice-7353b820c92e",
+            "desc": "NodeJS : A quick optimization advice",
+            "tags": ["node-js","performance"]
+        },
+        {
+            "url": "http://adobe.ly/Comet",
+            "desc": "User experience, prototyping and design app",
+            "tags": ["tools","prototype"]
+        },
+        {
+            "url": "http://mattdesl.github.io/svg-mesh-3d/",
+            "desc": "SVG mesh 3D",
+            "tags": ["svg","3d","effects"]
+        },
+        {
+            "url": "http://una.im/vintage-washout/",
+            "desc": "CSS Image Effects: Vintage Washout",
+            "tags": ["css","filter"]
+        },
+        {
+            "url": "https://speakerdeck.com/bramstein/web-fonts-performance",
+            "desc": "Web Fonts Performance",
+            "tags": ["fonts","performance"]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2015/10/takeaways-mobile-web-behavior/",
+            "desc": "Takeaways From Mobile Web Behavior",
+            "tags": ["mobile","ux"]
+        },
+        {
+            "url": "https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95",
+            "desc": "10 Interview Questions Every JavaScript Developer Should Know",
+            "tags": ["js","interview"]
+        },
+        {
+            "url": "https://css-tricks.com/how-to-make-charts-with-svg/",
+            "desc": "How to Make Charts with SVG",
+            "tags": ["svg","charts"]
+        },
+        {
+            "url": "https://www.chromestatus.com/",
+            "desc": "Chrome Platform Status",
+            "tags": ["chrome","features"]
+        },
+        {
+            "url": "https://www.talater.com/upup/",
+            "desc": "UpUp - Offline First in 1 line of Javascript",
+            "tags": ["offline","js"]
+        },
+        {
+            "url": "http://alistapart.com/blog/post/urls-beyond-the-web",
+            "desc": "URLs Beyond the Web",
+            "tags": ["url"]
+        },
+        {
+            "url": "http://www.wired.com/2015/10/brief-history-of-the-demise-of-the-comments-timeline",
+            "desc": "A Brief History of the End of the Comments",
+            "tags": ["comments","ui"]
+        },
+        {
+            "url": "https://medium.com/re-write/the-unicorn-workflow-design-to-code-with-atomic-design-principles-and-sketch-8b0fe7d05a37",
+            "desc": "The Unicorn Workflow, Design to Code with Atomic Design Principles and Sketch",
+            "tags": ["atomic-design"]
+        },
+        {
+            "url": "http://zurb.com/playground/motion-ui",
+            "desc": "Motion UI",
+            "tags": ["sass","ui"]
+        },
+        {
+            "url": "https://medium.com/startups-venture-capital/your-ui-isn-t-a-disney-movie-703f7fbd24d2",
+            "desc": "Your UI isn’t a Disney Movie",
+            "tags": ["ui","animations"]
+        },
+        {
+            "url": "https://viget.com/inspire/wayfinding",
+            "desc": "Signal vs. Noise: Color as a Wayfinding Tool",
+            "tags": ["ui"]
+        },
+        {
+            "url": "http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript",
+            "desc": "Immutable Data Structures and JavaScript ",
+            "tags": ["js","immutable"]
+        }
+    ]
+}
