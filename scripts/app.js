@@ -4,7 +4,7 @@
 	var last = 0;
 	
 	
-	last = 27;
+	last = 28;
 	
 	if(
 		window.location.hash !== '' && 
