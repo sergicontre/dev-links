@@ -1,0 +1,106 @@
+{
+    "number": "28",
+    "date": "26-10-2015",
+    "items": [
+        {
+            "url": "https://www.youtube.com/watch?v=SmE4OwHztCc",
+            "desc": "So how does the browser actually render a website",
+            "tags": ["performance"]
+        },
+        {
+            "url": "https://www.gitbook.com/book/frontendmasters/front-end-handbook/details",
+            "desc": "Front-end Handbook",
+            "tags": ["front-end"]
+        },
+        {
+            "url": "http://maxwellito.github.io/es6-quiz-slides/",
+            "desc": "ECMA Script 6 Quiz",
+            "tags": ["es6","quiz","js"]
+        },
+        {
+            "url": "https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know",
+            "desc": "jQuery tips everyone should know",
+            "tags": ["jQuery","js"]
+        },
+        {
+            "url": "http://tympanus.net/codrops/2015/10/21/page-stack-navigation/",
+            "desc": "Page Stack Navigation",
+            "tags": ["ui","navigation"]
+        },
+        {
+            "url": "http://myers.io/2015/10/22/1password-leaks-your-data/",
+            "desc": "1Password Leaks Your Data",
+            "tags": ["security"]
+        },
+        {
+            "url": "http://blogs.adobe.com/dreamweaver/2015/10/the-evolution-of-buttons-in-ux-design.html",
+            "desc": "The Evolution of Buttons in UX Design",
+            "tags": ["ux","buttons"]
+        },
+        {
+            "url": "http://www.nngroup.com/articles/common-ux-deliverables/",
+            "desc": "Which UX Deliverables Are Most Commonly Created and Shared?",
+            "tags": ["ux"]
+        },
+        {
+            "url": "http://www.webdesignerdepot.com/2015/10/how-touch-impacts-ux/",
+            "desc": "How touch impacts UX",
+            "tags": ["ux","touch"]
+        },
+        {
+            "url": "http://www.zeldman.com/2015/10/21/web-performance-today/",
+            "desc": "Web Performance Today",
+            "tags": ["performance"]
+        },
+        {
+            "url": "https://medium.com/@callmevlad/let-s-redesign-web-design-2d67aec798e",
+            "desc": "Let’s Redesign Web Design",
+            "tags": ["design"]
+        },
+        {
+            "url": "https://medium.com/swlh/you-might-not-need-gulp-js-89a0220487dd",
+            "desc": "You Might Not Need Gulp.js",
+            "tags": ["node","workflow","gulp"]
+        },
+        {
+            "url": "https://auth0.com/blog/2015/10/23/incremental-dom/",
+            "desc": "Incremental DOM 101: What is it and why I should care?",
+            "tags": ["dom","incremental-dom"]
+        },
+        {
+            "url": "http://rollupjs.org/",
+            "desc": "rollup.js - the next-generation JavaScript module bundler",
+            "tags": ["modules","js"]
+        },
+        {
+            "url": "https://daveceddia.com/angular-2-in-plain-js/",
+            "desc": "Angular 2 in Plain JS",
+            "tags": ["angular"]
+        },
+        {
+            "url": "http://blog.getify.com/arrow-this/",
+            "desc": "Arrow This",
+            "tags": ["es6","js"]
+        },
+        {
+            "url": "http://smashingboxes.com/ideas/choosing-a-front-end-framework-angular-ember-react",
+            "desc": "Choosing a Front End Framework: Angular vs. Ember vs. React",
+            "tags": ["angular","ember","react"]
+        },
+        {
+            "url": "http://www.sitepoint.com/experimenting-object-observe-javascript-found-useful/",
+            "desc": "Experimenting with Object.observe in JavaScript",
+            "tags": ["js","object-observe"]
+        },
+        {
+            "url": "https://joreteg.com/blog/viability-of-js-frameworks-on-mobile",
+            "desc": "The viability of JS frameworks on mobile",
+            "tags": ["mobile","js"]
+        },
+        {
+            "url": "https://medium.com/ux-for-india/fixing-the-ux-of-hyperlinks-7cb4e5a3fe17",
+            "desc": "Fixing the UX of hyperlinks",
+            "tags": ["ux","hyperlinks"]
+        }
+    ]
+}
