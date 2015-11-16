@@ -1,0 +1,111 @@
+{
+    "number": "31",
+    "date": "16-11-2015",
+    "items": [
+        {
+            "url": "https://medium.com/@illyism/why-is-it-so-hard-to-find-a-front-end-developer-cb92848a7c6f",
+            "desc": "Why is it so hard to find a front end developer?",
+            "tags": ["front-end"]
+        },
+        {
+            "url": "http://www.nngroup.com/articles/flat-design-long-exposure/",
+            "desc": "Long-Term Exposure to Flat Design: How the Trend Slowly Makes Users Less Efficient",
+            "tags": ["flat","design"]
+        },
+        {
+            "url": "http://www.creativebloq.com/infographic/web-design-trends-2015-111517597",
+            "desc": "5 web design takeaways from 2015",
+            "tags": ["web-design"]
+        },
+        {
+            "url": "https://www.hellobonsai.com/rates",
+            "desc": "Freelance Rate Explorer",
+            "tags": ["freelance","tools"]
+        },
+        {
+            "url": "http://www.sitepoint.com/creating-components-angular-2-typescript-es5/",
+            "desc": "Creating Components in Angular 2 with Typescript and ES5",
+            "tags": ["angular","es5","typescript","js"]
+        },
+        {
+            "url": "https://aerotwist.com/blog/bigrig/",
+            "desc": "Big Rig",
+            "tags": ["performance","tools"]
+        },
+        {
+            "url": "http://jamesknelson.com/the-six-things-you-need-to-know-about-babel-6/",
+            "desc": "The Six Things You Need To Know About Babel 6",
+            "tags": ["babel","js","es6"]
+        },
+        {
+            "url": "http://www.sitepoint.com/making-css-count-backwards/",
+            "desc": "Making CSS Count Backwards",
+            "tags": ["css"]
+        },
+        {
+            "url": "http://tympanus.net/codrops/2015/11/10/interactive-room-display/",
+            "desc": "Interactive Room Display",
+            "tags": ["ui"]
+        },
+        {
+            "url": "https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/",
+            "desc": "The Difference Between Responsive and Adaptive Design",
+            "tags": ["adaptive","responsive"]
+        },
+        {
+            "url": "https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570",
+            "desc": "Misused mobile UX patterns",
+            "tags": ["ux","mobile"]
+        },
+        {
+            "url": "http://www.webdesignerdepot.com/2015/11/jekyll-against-the-rest-of-the-world/",
+            "desc": "Static-site success: Jekyll against the rest of the world",
+            "tags": ["jekyll","static-site"]
+        },
+        {
+            "url": "https://github.com/whackashoe/antimoderate/blob/master/README.md",
+            "desc": "AntiModerate - The progressive image loading library for great good!",
+            "tags": ["images","library","loading"]
+        },
+        {
+            "url": "http://tympanus.net/codrops/2015/11/12/animating-svg-menu-icon-segment/",
+            "desc": "Animating an SVG Menu Icon with Segment",
+            "tags": ["ui","svg"]
+        },
+        {
+            "url": "http://www.sitepoint.com/overview-javascript-templating-engines/",
+            "desc": "An Overview of JavaScript Templating Engines",
+            "tags": ["js","templates"]
+        },
+        {
+            "url": "https://docs.google.com/document/d/1Ah9IJ72DhV4AzoZ1TJUnMzj42PzQrLrwQUkg9koO0dg/",
+            "desc": "React vs Angular 2 - final",
+            "tags": ["react","angular"]
+        },
+        {
+            "url": "http://reactivex.io/learnrx/",
+            "desc": "Functional Programming in Javascript",
+            "tags": ["functional","js"]
+        },
+        {
+            "url": "https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994",
+            "desc": "Anatomy of a large Angular application",
+            "tags": ["angular"]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/",
+            "desc": "Flexbox For Interfaces All The Way: Tracks Case Study",
+            "tags": ["flexbox","css","case-study"]
+        },
+        {
+            "url": "https://infinum.co/the-capsized-eight/articles/things-to-not-avoid-when-writing-css",
+            "desc": "Things to NOT avoid when writing CSS",
+            "tags": ["css","tips"]
+        },
+        {
+            "url": "http://codepen.io/thebabydino/full/pjxVWp/",
+            "desc": "Don't use gradient generators",
+            "tags": ["css","gradients"]
+        }
+    ]
+}
