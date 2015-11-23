@@ -1,0 +1,96 @@
+{
+    "number": "32",
+    "date": "23-11-2015",
+    "items": [
+        {
+            "url": "https://aerotwist.com/blog/the-cost-of-frameworks/",
+            "desc": "The Cost of Frameworks",
+            "tags": ["performance","js"]
+        },
+        {
+            "url": "https://css-tricks.com/loading-web-fonts-with-the-web-font-loader/",
+            "desc": "Loading Web Fonts with the Web Font Loader",
+            "tags": ["web-fonts","js","performance","fout"]
+        },
+        {
+            "url": "http://arc.applause.com/2015/11/06/javascript-is-eating-the-world/",
+            "desc": "JavaScript Is Eating The World",
+            "tags": ["js"]
+        },
+        {
+            "url": "http://www.sitepoint.com/javascript-copy-to-clipboard/",
+            "desc": "Roll Your Own Copy to Clipboard Feature in 20 Lines of JavaScript",
+            "tags": ["clipboard"]
+        },
+        {
+            "url": "http://thenextweb.com/dd/2015/11/16/why-cards-are-dominating-mobile-design/",
+            "desc": "Why cards are dominating mobile design",
+            "tags": ["card-ui","ui","mobile"]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/",
+            "desc": "Static Website Generators Reviewed: Jekyll, Middleman, Roots, Hugo",
+            "tags": ["static","generators"]
+        },
+        {
+            "url": "http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/",
+            "desc": "How Our CSS Framework Helps Enforce Accessibility",
+            "tags": ["accessibility","css"]
+        },
+        {
+            "url": "https://css-tricks.com/creating-an-animated-menu-indicator-with-css-selectors/",
+            "desc": "Creating an Animated Menu Indicator with CSS Selectors",
+            "tags": ["css","ui","menu"]
+        },
+        {
+            "url": "http://www.sitepoint.com/how-to-build-responsive-images-with-srcset/",
+            "desc": "How to Build Responsive Images with srcset",
+            "tags": ["rwd","images"]
+        },
+        {
+            "url": "http://sarasoueidan.com/blog/svg-tips-for-designers/",
+            "desc": "Tips for Creating and Exporting Better SVGs for the Web",
+            "tags": ["svg"]
+        },
+        {
+            "url": "http://documentcss.com/",
+            "desc": "DocumentCSS - Create live style guides with interactive examples, that change as your design does.",
+            "tags": ["css","sgdd"]
+        },
+        {
+            "url": "http://mojs.io/",
+            "desc": "mo.js - Motion Graphics for the Web",
+            "tags": ["js","animation"]
+        },
+        {
+            "url": "https://www.nczonline.net/blog/2015/11/performance-implication-object-defineproperty/",
+            "desc": "Hidden performance implications of Object.defineProperty()",
+            "tags": ["js","performance"]
+        },
+        {
+            "url": "https://developers.google.com/web/showcase/case-study/googleplus",
+            "desc": "Google+ goes completely responsive - case study",
+            "tags": ["case-study","rwd"]
+        },
+        {
+            "url": "http://www.webdesignerdepot.com/2015/11/9-proven-ways-to-enhance-ux-with-microcopy/",
+            "desc": "9 proven ways to enhance UX with microcopy",
+            "tags": ["ux"]
+        },
+        {
+            "url": "http://tympanus.net/codrops/2015/11/19/some-inspiration-for-pricing-tables/",
+            "desc": "Some Inspiration for Pricing Tables",
+            "tags": ["ui","pricing-table"]
+        },
+        {
+        	"url": "https://speakerdeck.com/addyosmani/chrome-devtools-deep-dive",
+        	"desc": "Chrome DevTools Deep-dive",
+        	"tags": ["chrome","dev-tools"]
+        },
+        {
+        	"url": "https://tidycustoms.net",
+        	"desc": "[AD] Get a professional Page Speed  audit and find out what's slowing down your site, and how to fix it.",
+        	"tags": []
+        }
+    ]
+}
