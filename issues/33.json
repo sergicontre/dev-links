@@ -1,0 +1,96 @@
+{
+    "number": "33",
+    "date": "30-11-2015",
+    "items": [
+        {
+            "url": "https://css-tricks.com/keeping-breakpoints-dry/",
+            "desc": "On Keeping Breakpoints DRY",
+            "tags": ["rwd","css"]
+        },
+        {
+            "url": "http://www.sitepoint.com/10-guidelines-better-website-background-videos/",
+            "desc": "10 Guidelines for Better Website Background Videos",
+            "tags": ["video"]
+        },
+        {
+            "url": "http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/",
+            "desc": "Top JavaScript Frameworks, Libraries and Tools and When to Use Them",
+            "tags": ["resources","collection","js"]
+        },
+        {
+            "url": "http://allyjs.io/",
+            "desc": "ally.js - a JavaScript library simplifying certain accessibility features, functions and behaviors",
+            "tags": ["js","accessibility"]
+        },
+        {
+            "url": "http://www.creativebloq.com/web-design/beginners-guide-designing-interface-animations-111517793",
+            "desc": "A beginner's guide to designing interface animations",
+            "tags": ["animations"]
+        },
+        {
+            "url": "http://www.webdesignerdepot.com/2015/11/how-infinite-scrolling-breaks-ux/",
+            "desc": "How infinite scrolling breaks UX",
+            "tags": ["ux","infinite-scroll"]
+        },
+        {
+            "url": "https://codyhouse.co/demo/stretchy-navigation/index.html",
+            "desc": "Stretchy Navigation",
+            "tags": ["ui","menu"]
+        },
+        {
+            "url": "http://tobiasahlin.com/blog/how-to-animate-box-shadow/",
+            "desc": "How to animate box-shadow with silky smooth performance",
+            "tags": ["css","performance"]
+        },
+        {
+            "url": "https://css-tricks.com/a-new-responsive-font-format-for-the-web/",
+            "desc": "A New Responsive Font Format for the Web",
+            "tags": ["rwd","fonts"]
+        },
+        {
+            "url": "http://webdesignledger.com/design-inspiration-data-dashboard-ui-design",
+            "desc": "Design Inspiration: Data & Dashboard UI Design",
+            "tags": ["ui","design"]
+        },
+        {
+            "url": "http://designmodo.com/static-website-generators/",
+            "desc": "Comprehensive Guide to Static Website Generators",
+            "tags": ["static-www","guide"]
+        },
+        {
+            "url": "http://www.creativebloq.com/web-design/get-started-css-polygons-111517938",
+            "desc": "Get started with CSS Polygons",
+            "tags": ["css","clip-path"]
+        },
+        {
+            "url": "http://jamesknelson.com/simple-routing-redux-react/",
+            "desc": "Simple Routing with Redux and React",
+            "tags": ["react","redux","js"]
+        },
+        {
+            "url": "http://sarasoueidan.com/blog/svg-vs-gif/",
+            "desc": "Animated SVG vs GIF",
+            "tags": ["svg","gif"]
+        },
+        {
+            "url": "http://tutorialzine.com/2015/11/think-you-know-es6-prove-it/",
+            "desc": "Think You Know ES6? Prove it!",
+            "tags": ["es6","quiz"]
+        },
+        {
+            "url": "http://blog.invisionapp.com/statistics-on-user-experience/",
+            "desc": "13 impressive statistics on user experience",
+            "tags": ["ux","statistics"]
+        },
+        {
+            "url": "http://blog.getify.com/concurrently-javascript-1/",
+            "desc": "Concurrently JavaScript",
+            "tags": ["js"]
+        },
+        {
+            "url": "http://www.slant.co/topics/1686/~javascript-ides",
+            "desc": "What are the best JavaScript IDEs?",
+            "tags": ["ide","js","comparision"]
+        }
+    ]
+}
