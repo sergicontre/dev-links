@@ -1,0 +1,91 @@
+{
+    "number": "34",
+    "date": "07-12-2015",
+    "items": [
+        {
+            "url": "https://github.com/stefanbuck/awesome-browser-extensions-for-github",
+            "desc": "Awesome browser extensions for Github",
+            "tags": ["github","tools"]
+        },
+        {
+            "url": "https://medium.com/swlh/mobile-app-developers-are-suffering-a5636c57d576#.hxz8gitkc",
+            "desc": "Mobile App Developers are Suffering",
+            "tags": ["mobile"]
+        },
+        {
+            "url": "https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925",
+            "desc": "Must See JavaScript Dev Tools That Put Other Dev Tools to Shame",
+            "tags": ["tools"]
+        },
+        {
+            "url": "https://css-tricks.com/im-personally-responsible-for-every-bug-on-every-website/",
+            "desc": "I'm personally responsible for every bug on every website",
+            "tags": ["css"]
+        },
+        {
+            "url": "https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.1sown12hj",
+            "desc": "Flexbox’s Best-Kept Secret",
+            "tags": ["css","flexbox"]
+        },
+        {
+            "url": "http://www.sitepoint.com/javascript-beyond-the-web-in-2015/",
+            "desc": "JavaScript Beyond the Web in 2015",
+            "tags": ["js","2015"]
+        },
+        {
+            "url": "http://www.webdesignernews.com/external/flexbox-froggy-a-game-for-learning-css-flexbox",
+            "desc": "Flexbox Froggy",
+            "tags": ["css","flexbox"]
+        },
+        {
+            "url": "https://blog.colepeters.com/building-and-shipping-functional-css/",
+            "desc": "Building and shipping functional CSS",
+            "tags": ["css"]
+        },
+        {
+            "url": "http://www.sitepoint.com/introduction-to-hardware-acceleration-css-animations/",
+            "desc": "An Introduction to Hardware Acceleration with CSS Animations",
+            "tags": ["css","performance","animation"]
+        },
+        {
+            "url": "http://www.creativebloq.com/css3/introducing-css-grid-layout-spec-111517952",
+            "desc": "Introducing CSS Grid Layout",
+            "tags": ["css","grid"]
+        },
+        {
+            "url": "http://nathancahill.github.io/Split.js/",
+            "desc": "Split.js - lightweight utility for creating adjustable split views or panes",
+            "tags": ["js","library","ui"]
+        },
+        {
+            "url": "http://tedgoas.github.io/Cerberus/",
+            "desc": "Cerberus - Patterns for Responsive HTML Email Templates",
+            "tags": ["email","templates"]
+        },
+        {
+            "url": "https://css-tricks.com/2016-front-end-conferences/",
+            "desc": "A Guide to 2016 Front End Conferences",
+            "tags": ["front-end","conferences"]
+        },
+        {
+            "url": "http://uxdesign.cc/ux-trends-2015-2016",
+            "desc": "The State of UX in 2016",
+            "tags": ["ux","2016"]
+        },
+        {
+            "url": "http://blog.siliconpublishing.com/2015/12/the-fall-and-rise-of-svg/",
+            "desc": "The Fall and Rise of SVG",
+            "tags": ["svg"]
+        },
+        {
+            "url": "http://www.awwwards.com/designing-longer-web-forms-and-why-they-can-work-too.html",
+            "desc": "Designing Longer Web Forms and Why They Can Work Too",
+            "tags": ["ui","forms","ux"]
+        },
+        {
+        	"url": "http://twitter.github.io/labella.js/",
+        	"desc": "Labella.js - labels should be beautiful",
+        	"tags": ["js","labels","ui","library"]
+        }
+    ]
+}
