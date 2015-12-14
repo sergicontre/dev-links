@@ -1,0 +1,91 @@
+{
+    "number": "35",
+    "date": "14-12-2015",
+    "items": [
+        {
+            "url": "https://ponyfoo.com/articles/javascript-developer-survey-results",
+            "desc": "JavaScript Developer Survey Results",
+            "tags": ["js","survey"]
+        },
+        {
+            "url": "https://css-tricks.com/the-blur-up-technique-for-loading-background-images/",
+            "desc": "The “Blur Up” Technique for Loading Background Images",
+            "tags": ["css","ui"]
+        },
+        {
+            "url": "http://webdesign.tutsplus.com/tutorials/blending-modes-in-css-color-theory-and-practical-application--cms-25201",
+            "desc": "Blending Modes in CSS: Color Theory and Practical Application",
+            "tags": ["css","blend-mode"]
+        },
+        {
+            "url": "https://medium.com/@jviereck/modularise-css-the-react-way-1e817b317b04",
+            "desc": "Modularise CSS the React way",
+            "tags": ["css","modularisation"]
+        },
+        {
+            "url": "https://medium.com/@camaelon/what-s-in-a-web-browser-83793b51df6c",
+            "desc": "What’s in a web browser",
+            "tags": ["browser","rendering"]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2015/12/introduction-to-postcss/",
+            "desc": "An Introduction To PostCSS",
+            "tags": ["css","post-css"]
+        },
+        {
+            "url": "http://www.sitepoint.com/intuitive-scrolling-interfaces-with-css-scroll-snap-points/",
+            "desc": "Intuitive Scrolling Interfaces with CSS Scroll Snap Points",
+            "tags": ["css", "snap-points"]
+        },
+        {
+            "url": "https://github.com/ipselon/structor",
+            "desc": "Structor - a user interface builder for React",
+            "tags": ["tools","react","js"]
+        },
+        {
+            "url": "http://searchenginewatch.com/sew/review/2438285/12-good-bad-and-ugly-web-design-trends-for-2016",
+            "desc": "12 good, bad and ugly web design trends for 2016",
+            "tags": ["web-design","2016"]
+        },
+        {
+            "url": "https://css-tricks.com/using-multi-step-animations-transitions/",
+            "desc": "Using Multi-Step Animations and Transitions",
+            "tags": ["css","animations","transitions"]
+        },
+        {
+            "url": "http://www.1stwebdesigner.com/2016-web-design-ux-trends/",
+            "desc": "2016 Web Design & UX Trends to Boost Conversions",
+            "tags": ["web-design","ux","2016"]
+        },
+        {
+            "url": "http://alistapart.com/article/design-white-lies-ethics",
+            "desc": "Design, White Lies & Ethics",
+            "tags": ["ui","ux"]
+        },
+        {
+            "url": "http://bitsofco.de/the-vertical-align-property/",
+            "desc": "The vertical-align Property",
+            "tags": ["css","vertical-align"]
+        },
+        {
+            "url": "https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319#.3aycbsu8l",
+            "desc": "Battling BEM – 5 common problems and how to avoid them",
+            "tags": ["css","bem"]
+        },
+        {
+            "url": "http://arc.applause.com/2015/11/30/application-shell-architecture/",
+            "desc": "Why Progressive Web Apps Are The Future Of Web Development",
+            "tags": ["web-apps"]
+        },
+        {
+            "url": "http://taucharts.com/",
+            "desc": "Taucharts flexible javascript charting library for data exploration",
+            "tags": ["js","charts","library"]
+        },
+        {
+            "url": "http://chocolatechip-ui.com/",
+            "desc": "ChocolateChip UI",
+            "tags": ["ui"]
+        }
+    ]
+}
