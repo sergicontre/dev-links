@@ -1,0 +1,106 @@
+{
+    "number": "37",
+    "date": "28-12-2015",
+    "items": [
+        {
+            "url": "http://addyosmani.com/blog/getting-started-with-progressive-web-apps/",
+            "desc": "Getting started with Progressive Web Apps",
+            "tags": ["progressive","web-apps","js","service-worker"]
+        },
+        {
+            "url": "http://www.sitepoint.com/front-end-tools-favorite-finds-2015/",
+            "desc": "Front-end Tools: Some of My Favorite Finds of 2015",
+            "tags": ["tools","2015"]
+        },
+        {
+            "url": "https://daveceddia.com/angular-2-dependencies-overview/",
+            "desc": "Angular 2 Dependencies Overview",
+            "tags": ["angular","js"]
+        },
+        {
+            "url": "http://johnpolacek.github.io/expressive-css/",
+            "desc": "Expressive CSS",
+            "tags": ["css"]
+        },
+        {
+            "url": "http://codecept.io/",
+            "desc": "CodeceptJS - modern era acceptance testing for node.js",
+            "tags": ["tests","nodejs"]
+        },
+        {
+            "url": "https://24ways.org/2015/being-responsive-to-the-small-things/",
+            "desc": "Being Responsive to the Small Things",
+            "tags": ["rwd"]
+        },
+        {
+            "url": "http://dummytext.com/",
+            "desc": "DummyText.com - Placeholder text for HTML mockups and templates",
+            "tags": ["placeholder","tools","js"]
+        },
+        {
+            "url": "http://www.sitepoint.com/javascript-2015-review/",
+            "desc": "JavaScript: 2015 in Review",
+            "tags": ["js","2015"]
+        },
+        {
+            "url": "https://github.com/HugoGiraudel/SJSJ",
+            "desc": "Simplified JavaScript Jargon",
+            "tags": ["js"]
+        },
+        {
+            "url": "http://fortrabbit.github.io/quotes/",
+            "desc": "Quotes for developers",
+            "tags": ["fun"]
+        },
+        {
+            "url": "http://www.materialup.com/collections/the-very-best-of-material-design-in-2015",
+            "desc": "The very best of Material Design in 2015",
+            "tags": ["design","material-design"]
+        },
+        {
+            "url": "https://24ways.org/2015/how-tabs-should-work/",
+            "desc": "How Tabs Should Work",
+            "tags": ["js","ui","tabs"]
+        },
+        {
+            "url": "https://regexcrossword.com/",
+            "desc": "Regex Crossword",
+            "tags": ["regexp","quiz"]
+        },
+        {
+            "url": "https://medium.com/front-end-developers/a-journey-into-reactive-user-interfaces-101-1daea5702486",
+            "desc": "A journey into Reactive User Interfaces 101",
+            "tags": ["reactive-programming","js"]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/",
+            "desc": "Reimagining Single-Page Applications With Progressive Enhancement",
+            "tags": ["js","spa"]
+        },
+        {
+            "url": "https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4",
+            "desc": "Javascript Fatigue",
+            "tags": ["js"]
+        },
+        {
+            "url": "http://thenextweb.com/dd/2015/12/24/the-unknown-browser-with-300-million-users-thats-breaking-your-site/",
+            "desc": "The browser with 300 million users that's breaking your site",
+            "tags": ["opera"]
+        },
+        {
+            "url": "http://www.creativebloq.com/web-design/9-tech-trends-will-change-web-design-2016-121518355",
+            "desc": "9 tech trends that will change web design ",
+            "tags": ["web-design"]
+        },
+        {
+            "url": "http://www.goodui.org/evidence/",
+            "desc": "GoodUI Evidence",
+            "tags": ["ui","ux"]
+        },
+        {
+            "url": "http://css-cursor.techstream.org/",
+            "desc": "CSS Cursor",
+            "tags": ["css","cursor"]
+        }
+    ]
+}
