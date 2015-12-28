@@ -1,7 +1,7 @@
 (function($) {
 	var source   = $("#issue-template").html();
 	var template = Handlebars.compile(source);
-	var last = 36;
+	var last = 37;
 	
 	if(
 		window.location.hash !== '' && 
