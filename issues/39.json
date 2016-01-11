@@ -1,0 +1,111 @@
+{
+   "number": "39"
+    "date": "11-01-2016",
+    "items": [
+        {
+            "url": "http://featurejs.com/",
+            "desc": "Feature.js - a feature detection library in 1kb",
+            "tags": ["js","library"]
+        },
+        {
+            "url": "http://technologyadvice.github.io/es7-decorators-babel6/",
+            "desc": "Using ES7 Decorators with Babel 6",
+            "tags": ["js","es7","decorators","babel"]
+        },
+        {
+            "url": "http://swissincss.com/konstruktive-grafik.html",
+            "desc": "Swiss in CSS",
+            "tags": ["css"]
+        },
+        {
+            "url": "https://designschool.canva.com/blog/footer-design/",
+            "desc": "Blog Footer Bringing Down Your Site? Get it Right With These 50 Examples",
+            "tags": ["ui","footer"]
+        },
+        {
+            "url": "http://www.2ality.com/2016/01/private-data-classes.html",
+            "desc": "Managing the private data of ES6 classes",
+            "tags": ["js","es6","classes"]
+        },
+        {
+            "url": "http://www.troyhunt.com/2016/01/its-2016-already-how-are-websites-still.html",
+            "desc": "It’s 2016 already, how are websites still screwing up these user experiences?!",
+            "tags": ["ux"]
+        },
+        {
+            "url": "http://fightforux.com/",
+            "desc": "Fight For UX",
+            "tags": ["ux"]
+        },
+        {
+            "url": "http://www.sitepoint.com/10-web-predictions-2016/",
+            "desc": "10 Web Predictions for 2016",
+            "tags": ["2016"]
+        },
+        {
+            "url": "http://www.sitepoint.com/average-page-weight-increased-another-16-2015/",
+            "desc": "Average Page Weight Increased Another 16% in 2015",
+            "tags": ["performance","2015"]
+        },
+        {
+            "url": "http://www.2ality.com/2015/12/bundling-modules-future.html",
+            "desc": "The future of bundling JavaScript modules",
+            "tags": ["js","modules"]
+        },
+        {
+            "url": "http://www.deluxeblogtips.com/2015/12/118-free-resources-to-learn-javascript.html",
+            "desc": "118+ free resources to learn JavaScript",
+            "tags": ["js","learning"]
+        },
+        {
+            "url": "http://www.codelord.net/2016/01/07/adding-the-first-angular-2-service-to-your-angular-1-app/",
+            "desc": "Adding the first Angular 2 service to your Angular 1 app",
+            "tags": ["js","angular"]
+        },
+        {
+            "url": "http://www.sitepoint.com/graph-data-with-firebase/",
+            "desc": "Graph Data with Firebase",
+            "tags": ["firebase","js"]
+        },
+        {
+            "url": "https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36",
+            "desc": "Master the JavaScript Interview: What is a Closure?",
+            "tags": ["js","closure"]
+        },
+        {
+            "url": "http://www.thedotpost.com/2015/12/henrik-joreteg-pocket-sized-javascript",
+            "desc": "Pocket-sized JavaScript",
+            "tags": ["js"]
+        },
+        {
+            "url": "https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac",
+            "desc": "Jedi Principles of UI Animation",
+            "tags": ["ui","animation"]
+        },
+        {
+            "url": "http://www.theverge.com/2016/1/6/10722426/internet-explorer-8-9-10-dying",
+            "desc": "Microsoft is pulling the plug on Internet Explorer 8, 9, and 10 next Tuesday",
+            "tags": ["ie"]
+        },
+        {
+            "url": "http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6",
+            "desc": "Start your own JavaScript library using webpack and ES6",
+            "tags": ["js","library"]
+        },
+        {
+            "url": "https://glebbahmutov.com/blog/instant-web-application/",
+            "desc": "Instant Web Application",
+            "tags": ["web-app"]
+        },
+        {
+            "url": "https://github.com/VerbalExpressions/JSVerbalExpressions",
+            "desc": "JS Verbal Expressions",
+            "tags": ["js","regexp","library"]
+        },
+        {
+            "url": "https://www.fxsitecompat.com/en-US/docs/2016/application-cache-support-will-be-removed/",
+            "desc": "Application Cache support will be removed",
+            "tags": ["firefox","app-cache"]
+        }
+    ]
+}
