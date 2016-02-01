@@ -1,0 +1,121 @@
+{
+    "number": "42",
+    "date": "01-02-2016",
+    "items": [
+        {
+            "url": "http://motherboard.vice.com/read/google-will-soon-shame-all-websites-that-are-unencrypted-chrome-https",
+            "desc": "Google Will Soon Shame All Websites That Are Unencrypted",
+            "tags": ["ssl"]
+        },
+        {
+            "url": "https://platform-status.mozilla.org/",
+            "desc": "Firefox Platform Status",
+            "tags": ["firefox","tools"]
+        },
+        {
+            "url": "http://www.2ality.com/2016/01/ecmascript-2016.html",
+            "desc": "The final feature set of ECMAScript 2016 (ES7)",
+            "tags": ["js","es7","ecmascript-2016"]
+        },
+        {
+            "url": "http://voxelcss.com/",
+            "desc": "Voxel.css",
+            "tags": ["css","library","voxel"]
+        },
+        {
+            "url": "http://developit.github.io/preact/",
+            "desc": "Preact - Fast 3kb React alternative with the same ES6 API.",
+            "tags": ["js","react"]
+        },
+        {
+            "url": "http://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html",
+            "desc": "Understanding Zones",
+            "tags": ["js"]
+        },
+        {
+            "url": "http://www.zachleat.com/web/critical-webfonts/",
+            "desc": "Critical webfonts",
+            "tags": ["css","performance"]
+        },
+        {
+            "url": "https://design.google.com/articles/expressing-brand-in-material/",
+            "desc": "Expressing Brand in Material",
+            "tags": ["webdesign","material-design"]
+        },
+        {
+            "url": "http://thatemil.com/blog/2016/01/23/floating-label-no-js-pure-css/",
+            "desc": "Revisiting the Float Label pattern with CSS",
+            "tags": ["ui","float-label"]
+        },
+        {
+            "url": "http://v8project.blogspot.com/2016/01/v8-release-49.html",
+            "desc": "V8 JavaScript Engine: V8 Release 4.9",
+            "tags": ["js","v8"]
+        },
+        {
+            "url": "https://www.nczonline.net/blog/2016/01/react-and-the-economics-of-dynamic-web-interfaces/",
+            "desc": "React and the economics of dynamic web interfaces",
+            "tags": ["js","react"]
+        },
+        {
+            "url": "http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/",
+            "desc": "Front-end Application Libraries and Component Architectures",
+            "tags": ["js","react","angular","spa"]
+        },
+        {
+            "url": "https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819",
+            "desc": "The Heart & Soul of Prototypal OO: Concatenative Inheritance",
+            "tags": ["js"]
+        },
+        {
+            "url": "http://www.sitepoint.com/5-fancy-useless-web-components-avoid/",
+            "desc": "5 Fancy (But Useless) Web Components You Should Avoid",
+            "tags": ["ui","ux"]
+        },
+        {
+            "url": "http://www.noupe.com/development/javascript-frameworks-94897.html",
+            "desc": "JavaScript Frameworks: To Use or Not To Use?",
+            "tags": ["js","angular","react"]
+        },
+        {
+            "url": "http://www.sitepoint.com/20-docs-guides-front-end-developers-7/",
+            "desc": "20+ Docs and Guides for Front-end Developers",
+            "tags": ["guides","docs"]
+        },
+        {
+            "url": "http://www.codelord.net/2016/01/27/caching-http-results-in-angular/",
+            "desc": "Caching HTTP results in Angular",
+            "tags": ["js","angular","cache"]
+        },
+        {
+            "url": "http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/",
+            "desc": "Building a React Universal Blog App: A Step-by-Step Guide",
+            "tags": ["js","react"]
+        },
+        {
+            "url": "http://blogs.msdn.com/b/typescript/archive/2016/01/28/announcing-typescript-1-8-beta.aspx",
+            "desc": "Announcing TypeScript 1.8 Beta",
+            "tags": ["js","typescript"]
+        },
+        {
+            "url": "https://css-tricks.com/hookbin-capture-inspect-http-requests/",
+            "desc": "Hookbin – Capture and Inspect HTTP Requests",
+            "tags": ["tools","http"]
+        },
+        {
+            "url": "https://github.com/relatedcode/ParseAlternatives",
+            "desc": "A collaborative list of Parse alternative backend service providers.",
+            "tags": ["parse","alternatives"]
+        },
+        {
+            "url": "http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/",
+            "desc": "Preparing for ECMAScript 6: Symbols and Their Uses",
+            "tags": ["es6","js","symbols"]
+        },
+        {
+            "url": "https://www.smashingmagazine.com/2016/01/combining-ux-design-and-psychology-to-change-user-behavior/",
+            "desc": "Combining UX Design And Psychology To Change User Behavior",
+            "tags": ["ui","ux"]
+        }
+    ]
+}
