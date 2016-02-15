@@ -1,0 +1,96 @@
+{
+    "number": "44",
+    "date": "15/02/2016",
+    "items": [
+        {
+            "url": "https://medium.com/vanilla-javascript/choosing-vanilla-javascript-in-2016-6f38a8302ee5",
+            "desc": "Choosing Vanilla JavaScript in 2016",
+            "tags": ["js","vanilla"]
+        },
+        {
+            "url": "http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-beyond-the-browser/",
+            "desc": "JavaScript In 2016 - Beyond the Browser",
+            "tags": ["js"]
+        },
+        {
+            "url": "https://css-tricks.com/building-a-jekyll-site-part-1-of-3/",
+            "desc": "Building a Jekyll Site - Part 1 of 3: Converting a Static Website To Jekyll",
+            "tags": ["jekyll"]
+        },
+        {
+            "url": "http://www.codelord.net/2015/12/17/angulars-component-what-is-it-good-for/",
+            "desc": "Angular's .component - what is it good for?",
+            "tags": ["angular","js"]
+        },
+        {
+            "url": "https://daveceddia.com/angular-2-should-you-upgrade/",
+            "desc": "Angular 2: Should You Upgrade?",
+            "tags": ["angular2","js"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/rapid-web-application-development-with-meteor--cms-25130",
+            "desc": "Rapid Web Application Development With Meteor",
+            "tags": ["meteor","js"]
+        },
+        {
+            "url": "http://www.sitepoint.com/an-introduction-to-postcss/",
+            "desc": "An Introduction to PostCSS",
+            "tags": ["css","postcss"]
+        },
+        {
+            "url": "https://community.firstmarkcap.com/content/full-stack-anxiety-a-framework-for-learning",
+            "desc": "Full Stack Anxiety: a framework for learning",
+            "tags": ["full-stack"]
+        },
+        {
+            "url": "http://www.bigeng.io/how-we-css-at-bigcommerce/",
+            "desc": "How we CSS at BigCommerce",
+            "tags": ["css"]
+        },
+        {
+            "url": "https://medium.com/figma-design/introducing-vector-networks-3b877d2b864f",
+            "desc": "Introducing Vector Networks",
+            "tags": ["vector"]
+        },
+        {
+            "url": "https://2015.avocode.com/",
+            "desc": "How designers worked in 2015?",
+            "tags": ["web-design","2016"]
+        },
+        {
+            "url": "http://uxmag.com/articles/the-price-of-not-using-ux-patterns",
+            "desc": "The Price Of Not Using UX Patterns",
+            "tags": ["ux"]
+        },
+        {
+            "url": "http://www.webdesignerdepot.com/2016/02/how-slow-is-too-slow-in-2016/",
+            "desc": "How slow is too slow in 2016?",
+            "tags": ["ux","performance"]
+        },
+        {
+            "url": "http://alistapart.com/article/finessing-fecolormatrix",
+            "desc": "Finessing `feColorMatrix`",
+            "tags": ["svg"]
+        },
+        {
+            "url": "http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/",
+            "desc": "A Gentle Introduction to Functional JavaScript: Part 1",
+            "tags": ["js","functional"]
+        },
+        {
+            "url": "https://jakearchibald.com/2016/link-in-body/",
+            "desc": "The future of loading CSS",
+            "tags": ["css"]
+        },
+        {
+            "url": "https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016",
+            "desc": "The cost of transpiling ES2015 in 2016",
+            "tags": ["es2015","js"]
+        },
+        {
+            "url": "http://angularjs.blogspot.com/2016/02/angular-150-ennoblement-facilitation.html",
+            "desc": "Angular: Angular 1.5.0 - ennoblement-facilitation has been released!",
+            "tags": ["angular","js"]
+        }
+    ]
+}
