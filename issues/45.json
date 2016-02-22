@@ -1,0 +1,106 @@
+{
+    "number": "45",
+    "date": "22-02-2016",
+    "items": [
+        {
+            "url": "https://aerotwist.com/blog/the-anatomy-of-a-frame/",
+            "desc": "The Anatomy of a Frame",
+            "tags": ["performance"]
+        },
+        {
+            "url": "http://formforthought.com/rise-of-blue-in-web-graphic-design/",
+            "desc": "The colour BLUE is trending worldwide. Here’s why.",
+            "tags": ["web-design","blue"]
+        },
+        {
+            "url": "http://www.sitepoint.com/sending-emails-gmail-javascript-api/",
+            "desc": "Sending Emails with the Gmail JavaScript API",
+            "tags": ["js","gmail","api"]
+        },
+        {
+            "url": "http://collectui.com/",
+            "desc": "Collect UI - Daily inspiration collected from daily ui archive and beyond",
+            "tags": ["ui","collection"]
+        },
+        {
+            "url": "https://medium.com/@clayallsopp/2016-the-year-react-native-eats-mobile-development-83e8482f78a6",
+            "desc": "2016: The Year React Native Eats Mobile Development",
+            "tags": ["react","native","js"]
+        },
+        {
+            "url": "https://facebook.github.io/react/blog/2016/02/19/new-versioning-scheme.html",
+            "desc": "New Versioning Scheme",
+            "tags": ["js","react"]
+        },
+        {
+            "url": "http://vorpal.js.org/",
+            "desc": "Vorpal - The command-line is awesome",
+            "tags": ["js","cli"]
+        },
+        {
+            "url": "http://www.sitepoint.com/an-introduction-to-reasonably-pure-functional-programming/",
+            "desc": "An Introduction to Reasonably Pure Functional Programming",
+            "tags": ["js","functional-programming"]
+        },
+        {
+            "url": "https://doclets.io/",
+            "desc": "Doclets - Simple automated API-Doc generation for Javascript",
+            "tags": ["js","docs"]
+        },
+        {
+            "url": "https://www.smashingmagazine.com/2016/02/getting-ready-for-http2/",
+            "desc": "Getting Ready For HTTP/2: A Guide For Web Designers And Developers",
+            "tags": ["http2"]
+        },
+        {
+            "url": "http://blog.bitovi.com/change-propagation/",
+            "desc": "Be proactive, not reactive - Faster DOM updates via change propagation",
+            "tags": ["performance","dom"]
+        },
+        {
+            "url": "http://danibram.github.io/mocker-data-generator/",
+            "desc": "Mocker Data Generator",
+            "tags": ["mock","json"]
+        },
+        {
+            "url": "https://ethicalweb.org/",
+            "desc": "Ethical web",
+            "tags": ["ethical","web"]
+        },
+        {
+            "url": "https://david.darn.es/2016/02/18/using-the-github-com-interface/",
+            "desc": "Building a Site Entirely on Github.com",
+            "tags": ["static","github"]
+        },
+        {
+            "url": "https://www.smashingmagazine.com/2016/02/everything-about-google-accelerated-mobile-pages/",
+            "desc": "Turn Your AMP Up To 11: Everything You Need To Know",
+            "tags": ["amp"]
+        },
+        {
+            "url": "http://mern.io/",
+            "desc": "MERN — Easiest way to build isomorphic JavaScript apps using React and Redux.",
+            "tags": ["react","node","mongo-db","express","js"]
+        },
+        {
+            "url": "http://sigmajs.org/",
+            "desc": "Sigma.js",
+            "tags": ["drawing","library","js"]
+        },
+        {
+            "url": "https://spiritjs.io/",
+            "desc": "SpiritJS",
+            "tags": ["animation","library","js"]
+        },
+        {
+            "url": "http://tink.uk/flexbox-the-keyboard-navigation-disconnect/",
+            "desc": "Flexbox & the keyboard navigation disconnect",
+            "tags": ["flexbox","accessibility"]
+        },
+        {
+            "url": "http://madhatted.com/2016/1/25/let-it-be",
+            "desc": "Let It Be - How to declare JavaScript variables",
+            "tags": ["js","es6"]
+        }
+    ]
+}
