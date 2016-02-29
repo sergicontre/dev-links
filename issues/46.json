@@ -1,0 +1,101 @@
+{
+    "number": "46",
+    "date": "29-02-2016",
+    "items": [
+        {
+            "url": "http://fabianburghardt.de/webolution/",
+            "desc": "Evolution Of Webdesign",
+            "tags": ["history","web-design"]
+        },
+        {
+            "url": "http://www.sitepoint.com/mastering-watch-angularjs/",
+            "desc": "Mastering $watch in AngularJS",
+            "tags": ["js","angular"]
+        },
+        {
+            "url": "https://css-tricks.com/the-current-state-of-telephone-links/",
+            "desc": "The Current State of Telephone Links",
+            "tags": ["links"]
+        },
+        {
+            "url": "http://benchling.engineering/deep-dive-react-perf-debugging/",
+            "desc": "A Deep Dive into React Perf Debugging",
+            "tags": ["react", "performance"]
+        },
+        {
+            "url": "https://css-tricks.com/should-you-have-defaults-styles-for-table/",
+            "desc": "Should you have defaults styles for `table`?",
+            "tags": ["css","table"]
+        },
+        {
+            "url": "https://tech.instacart.com/why-we-moved-to-react/",
+            "desc": "Why we moved to React",
+            "tags": ["js","react"]
+        },
+        {
+            "url": "https://ponyfoo.com/articles/proposal-draft-for-flatten-and-flatmap",
+            "desc": "Proposal Draft for .flatten and .flatMap",
+            "tags": ["js"]
+        },
+        {
+            "url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY",
+            "desc": "React.js Conf 2016",
+            "tags": ["video","react","js"]
+        },
+        {
+            "url": "http://www.sitepoint.com/functional-reactive-programming-rxjs/",
+            "desc": "Introduction to Functional Reactive Programming with RxJS",
+            "tags": ["js","rxjs"]
+        },
+        {
+            "url": "https://github.com/blog/2112-delivering-octicons-with-svg",
+            "desc": "Delivering Octicons with SVG",
+            "tags": ["svg","github"]
+        },
+        {
+            "url": "http://www.noupe.com/design/gutenberg-web-typography-for-everyone-96188.html",
+            "desc": "Gutenberg: Web Typography for Everyone",
+            "tags": ["typography"]
+        },
+        {
+            "url": "http://emberjs.com/blog/2016/02/25/announcing-embers-first-lts.html",
+            "desc": "Announcing Ember's First LTS Release",
+            "tags": ["js","ember"]
+        },
+        {
+            "url": "http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/",
+            "desc": "How to lint your Sass/CSS properly with Stylelint",
+            "tags": ["sass","css","stylelint"]
+        },
+        {
+            "url": "https://blog.jixee.me/why-minimalist-design-can-benefit-your-user-experience/",
+            "desc": "Why Minimalist Design Can Benefit Your User Experience",
+            "tags": ["ux"]
+        },
+        {
+            "url": "https://medium.com/@tubikstudio/illustration-in-ui-art-in-action-68aa628fc7b4",
+            "desc": "Illustration in UI. Art in Action",
+            "tags": ["ui"]
+        },
+        {
+            "url": "http://zellwk.com/blog/rem-vs-em/",
+            "desc": "REM vs EM – The Great Debate",
+            "tags": ["rem","em","css"]
+        },
+        {
+            "url": "https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/",
+            "desc": "Preload: What Is It Good For?",
+            "tags": ["preload"]
+        },
+        {
+            "url": "http://javascriptplayground.com/blog/2016/02/the-react-webpack-tooling-problem",
+            "desc": "Misconceptions of Tooling in JavaScript",
+            "tags": ["js","tools"]
+        },
+        {
+            "url": "http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html",
+            "desc": "Angular 2 Change Detection Explained",
+            "tags": ["angular","js"]
+        }
+    ]
+}
