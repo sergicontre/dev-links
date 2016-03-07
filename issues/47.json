@@ -1,0 +1,111 @@
+{
+    "number": "47",
+    "date": "07-03-2016",
+    "items": [
+        {
+            "url": "https://kpdecker.github.io/six-speed/",
+            "desc": "Performance of ES6 features relative to the ES5 baseline operations per second.",
+            "tags": ["js","es5","es6"]
+        },
+        {
+            "url": "http://blissfuljs.com/",
+            "desc": "Bliss.js — Heavenly JavaScript!",
+            "tags": ["js","vanilla-js"]
+        },
+        {
+            "url": "https://css-tricks.com/introducing-css-scroll-snap-points/",
+            "desc": "Introducing CSS Scroll Snap Points",
+            "tags": ["css","snap-points"]
+        },
+        {
+            "url": "http://www.codelord.net/2016/02/26/what-is-the-component-router-can-you-start-using-it/",
+            "desc": "What is the Component Router? Can you start using it?",
+            "tags": ["angular","js"]
+        },
+        {
+            "url": "http://www.sitepoint.com/easy-angularjs-authentication-with-auth0/",
+            "desc": "Easy AngularJS Authentication with Auth0",
+            "tags": ["angular","js"]
+        },
+        {
+            "url": "http://thenewcode.com/482/Placing-Text-on-a-Circle-with-SVG",
+            "desc": "Placing Text on a Circle with SVG",
+            "tags": ["svg","text"]
+        },
+        {
+            "url": "http://www.sitepoint.com/can-svg-save-fat-png-32s/",
+            "desc": "Can You Replace Your PNGs with SVGs? Ask ZorroSVG!",
+            "tags": ["svg","png"]
+        },
+        {
+            "url": "http://codevisually.com/pressure-js-a-js-library-for-apple-touch-screens/",
+            "desc": "Pressure.js: A JS library for Apple touch screens",
+            "tags": ["touch","js"]
+        },
+        {
+            "url": "http://www.sitepoint.com/introduction-css-grid-layout-module/",
+            "desc": "An Introduction to the CSS Grid Layout Module",
+            "tags": ["css","grid"]
+        },
+        {
+            "url": "http://frend.co/",
+            "desc": "Frend — A collection of accessible, modern front-end components.",
+            "tags": ["ui","collection"]
+        },
+        {
+            "url": "http://www.sitepoint.com/create-text-to-speech-chrome-extension/",
+            "desc": "Create a Text-to-Speech Chrome Extension",
+            "tags": ["chrome","js","extension"]
+        },
+        {
+            "url": "http://clagnut.com/blog/2384/",
+            "desc": "Use rems for global sizing, use ems for local sizing",
+            "tags": ["rem","em","css"]
+        },
+        {
+            "url": "https://www.smashingmagazine.com/2016/03/pagination-infinite-scrolling-load-more-buttons/",
+            "desc": "Infinite Scrolling, Pagination Or “Load More” Buttons? Usability Findings In eCommerce",
+            "tags": ["ui","ux","pagination"]
+        },
+        {
+            "url": "https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/",
+            "desc": "Server-Side Rendering With React, Node And Express",
+            "tags": ["react","node"]
+        },
+        {
+            "url": "http://blog.lunarlogic.io/2016/boost-your-css-animation-performance-with-repaintless-css/",
+            "desc": "Boost Your CSS Animation Performance with the Repaintless.css Library",
+            "tags": ["css","performance"]
+        },
+        {
+            "url": "http://usablica.github.io/progress.js/",
+            "desc": "Progress.js - Themeable progress bar library",
+            "tags": ["progress","ui","js"]
+        },
+        {
+            "url": "http://jxnblk.com/rebass/",
+            "desc": "Rebass - Configurable React Stateless Functional UI Components",
+            "tags": ["react","js","components"]
+        },
+        {
+            "url": "http://thenewstack.io/google-preps-angular-2-final-release/",
+            "desc": "Google Preps Angular 2 for Final Release",
+            "tags": ["angular","js"]
+        },
+        {
+            "url": "http://developer.telerik.com/featured/whats-new-in-jquery-3/",
+            "desc": "What's New in jQuery 3",
+            "tags": ["jquery","js"]
+        },
+        {
+            "url": "https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f",
+            "desc": "Enzyme: JavaScript Testing utilities for React",
+            "tags": ["react","tests"]
+        },
+        {
+            "url": "http://kushagragour.in/lab/superplaceholderjs/",
+            "desc": "superplaceholder.js - super charge your input placeholders",
+            "tags": ["ui","placeholder","js"]
+        }
+    ]
+}
