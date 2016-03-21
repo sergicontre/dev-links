@@ -1,0 +1,111 @@
+{
+    "number": "49",
+    "date": "21-03-2016",
+    "items": [
+        {
+            "url": "https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504",
+            "desc": "Functional Programming for JavaScript People",
+            "tags": ["js","functiona-programming"]
+        },
+        {
+            "url": "https://mathiasbynens.github.io/rel-noopener/",
+            "desc": "About rel=noopener",
+            "tags": ["security"]
+        },
+        {
+            "url": "http://www.sitepoint.com/bind-javascripts-this-keyword-react/",
+            "desc": "6 Ways to Bind JavaScript's this Keyword in React, ES6 & ES7",
+            "tags": ["js","react","es6","es7"]
+        },
+        {
+            "url": "https://davidwalsh.name/angular-charts",
+            "desc": "How to Build Charts in Angular",
+            "tags": ["js","angular"]
+        },
+        {
+            "url": "http://www.sitepoint.com/practical-introduction-material-design-lite-google/",
+            "desc": "A Practical Introduction to Material Design Lite by Google",
+            "tags": ["material-design"]
+        },
+        {
+            "url": "https://github.com/blog/2123-more-code-review-tools",
+            "desc": "More code review tools",
+            "tags": ["code-review"]
+        },
+        {
+            "url": "https://css-tricks.com/learning-react-router/",
+            "desc": "Leveling Up With React: React Router",
+            "tags": ["js","react"]
+        },
+        {
+            "url": "https://umaar.com/dev-tips/97-animation-recorder/",
+            "desc": "Record animations with the animation recorder",
+            "tags": ["chrome","dev-tools","animation"]
+        },
+        {
+            "url": "http://tympanus.net/codrops/2016/03/16/interactive-animated-svg-drum-kit/",
+            "desc": "How to Create an Interactive Animated SVG Drum Kit",
+            "tags": ["svg","animation"]
+        },
+        {
+            "url": "http://techcrunch.com/2016/03/16/googles-makes-having-a-mobile-friendly-site-more-important-get-page-one-listing-seo/",
+            "desc": "Google announced that, in May, it will increase the importance of having a mobile page",
+            "tags": ["seo"]
+        },
+        {
+            "url": "https://blog.mozilla.org/blog/2016/03/14/mozilla-pushes-the-web-to-new-levels-as-a-platform-for-games/",
+            "desc": "Mozilla Pushes the Web to New Levels as a Platform for Games",
+            "tags": ["mozilla"]
+        },
+        {
+            "url": "https://www.google.com/design/spec/components/bottom-navigation.html",
+            "desc": "Bottom navigation - Components - Google design guidelines",
+            "tags": ["material-design"]
+        },
+        {
+            "url": "http://www.sitepoint.com/results-ultimate-css-survey/",
+            "desc": "The Results of The Ultimate CSS Survey",
+            "tags": ["css","survey"]
+        },
+        {
+            "url": "https://css-tricks.com/moving-to-a-cdn/",
+            "desc": "We Put Hundreds of Our Client Sites Behind a CDN, and It Worked Out Really Well",
+            "tags": ["cdn"]
+        },
+        {
+            "url": "http://www.sitepoint.com/angular-2-mockbackend/",
+            "desc": "Look Ma, No Server: Developing Apps with Angular 2 MockBackend",
+            "tags": ["js","angular"]
+        },
+        {
+            "url": "http://fettblog.eu/gulp-4-parallel-and-series/",
+            "desc": "Gulp 4: The new task execution system - gulp.parallel and gulp.series",
+            "tags": ["js","gulp"]
+        },
+        {
+            "url": "https://hacks.mozilla.org/2016/03/a-webassembly-milestone/",
+            "desc": "A WebAssembly Milestone: Experimental Support in Multiple Browsers",
+            "tags": ["js","webassembly"]
+        },
+        {
+            "url": "https://ponyfoo.com/articles/weakref",
+            "desc": "JavaScript Proposal for weak references: WeakRef",
+            "tags": ["js","weakref"]
+        },
+        {
+            "url": "http://staltz.com/all-js-libraries-should-be-authored-in-typescript.html",
+            "desc": "All JS libraries should be authored in TypeScript",
+            "tags": ["js","typescript"]
+        },
+        {
+            "url": "http://dbushell.com/2016/03/04/css-only-responsive-tables/",
+            "desc": "CSS only Responsive Tables",
+            "tags": ["css","rwd","table"]
+        },
+        {
+            "url": "http://www.zeldman.com/2016/03/17/css-grid-layout-and-flexbox-city/",
+            "desc": "Grid Layout & Flexbox City",
+            "tags": ["css","grid-layout","flexbox"]
+        }
+    ]
+}
