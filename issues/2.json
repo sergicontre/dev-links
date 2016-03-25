@@ -1,0 +1,66 @@
+{
+	"number": "2",
+	"date": "26-04-2015",
+	"items": [
+		{
+			"url": "https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b",
+			"desc": "Typical errors in accessibility",
+			"tags": ["ux", "accessibility"]
+		},
+		{
+			"url": "https://www.udacity.com/course/ud860",
+			"desc": "Online course about front-end performance",
+			"tags": ["js", "chrome"]
+		},
+		{
+			"url": "http://resources.mobify.com/tablet-web-design.html",
+			"desc": "Free e-book about RWD for tablets",
+			"tags": ["rwd", "free", "book"]
+		},
+		{
+			"url": "http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web",
+			"desc": "Push notifications in Chrome for Android",
+			"tags": ["js","android"]
+		},
+		{
+			"url": "http://howtocenterincss.com/",
+			"desc": "Center element generator",
+			"tags": ["css","generator"]
+		},
+		{
+			"url": "http://electron.atom.io/",
+			"desc": "Electron - built desktop applications using Web technologies",
+			"tags": ["html", "css", "desktop"]
+		},
+		{
+			"url": "http://stackoverflow.com/research/developer-survey-2015/",
+			"desc": "Results of the big StackOverflow survey for the developers",
+			"tags": ["stackoverflow","data"]
+		},
+		{
+			"url": "http://www.angularjsbook.com/angular-basics/chapters/",
+			"desc": "Interactive book about AngularJS",
+			"tags": ["angularjs","free","book"]
+		},
+		{
+			"url": "http://www.codecademy.com/learn/learn-angularjs",
+			"desc": "Online course about AngularJS",
+			"tags": ["angularjs","course"]
+		},
+		{
+			"url": "http://arasatasaygin.github.io/is.js/",
+			"desc": "is.js - small JavaScript comparision library",
+			"tags": ["js","library"]
+		},
+		{
+			"url": "https://www.youtube.com/watch?v=tMhJ4dXbmCM",
+			"desc": "JavaScript bind explained - short video",
+			"tags": ["js","video"]
+		},
+		{
+			"url": "https://fi.google.com/about/plan/ ",
+			"desc": "Great minimalistic animations and good usage of the Material Design elements",
+			"tags": ["layout-of-the-week","design"]
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"number": "18",
+	"date": "17-08-2015",
+	"items": [
+		{
+			"url": "http://blog.bitovi.com/longevity-or-lack-thereof-in-javascript-frameworks/",
+			"desc": "Longevity (or Lack Thereof) in JavaScript Frameworks",
+			"tags": ["js","frameworks"]
+		},
+		{
+			"url": "http://quantityqueries.com/",
+			"desc": "CSS Quantity Queries",
+			"tags": ["css"]
+		},
+		{
+			"url": "https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658",
+			"desc": "Building a desktop application with Electron",
+			"tags": ["js","electron"]
+		},
+		{
+			"url": "http://info.meteor.com/blog/comparing-performance-of-blaze-react-angular-meteor-and-angular-2-with-meteor",
+			"desc": "Comparing Performance of Blaze, React, Angular-Meteor and Angular 2 with Meteor",
+			"tags": ["js","performance","meteor","angular","react"]
+		},
+		{
+			"url": "http://alistapart.com/article/language-of-modular-design",
+			"desc": "The Language of Modular Design",
+			"tags": ["modular-design"]
+		},
+		{
+			"url": "http://www.smashingmagazine.com/2015/08/understanding-critical-css/",
+			"desc": "Understanding Critical CSS",
+			"tags": ["css","critical-css","performance"]
+		},
+		{
+			"url": "http://product.voxmedia.com/2015/8/13/9143805/performance-update-2-electric-boogaloo",
+			"desc": "Performance update #2: Electric Boogaloo",
+			"tags": ["js","performance"]
+		},
+		{
+			"url": "https://dribbble.com/shots/2187649-Credit-card-Checkout-flow-AMEX",
+			"desc": "Credit card - Checkout flow",
+			"tags": ["ui","animation"]
+		},
+		{
+			"url": "http://colorhunt.co/",
+			"desc": "Color hunt",
+			"tags": ["design","color","collection"]
+		},
+		{
+			"url": "http://lucidlemon.github.io/paradeiser/",
+			"desc": "Paradeiser",
+			"tags": ["ui","menu"]
+		},
+		{
+			"url": "https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/",
+			"desc": "The technology behind preview photos",
+			"tags": ["performance"]
+		},
+		{
+			"url": "http://jsforallof.us/",
+			"desc": "JS for all of us",
+			"tags": ["js"]
+		},
+		{
+			"url": "https://github.com/graue/gentest",
+			"desc": "Generative testing for JavaScript.",
+			"tags": ["js","tests"]
+		}
+	]
+}

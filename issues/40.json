@@ -1,0 +1,106 @@
+{
+    "number": "40",
+    "date": "18-01-2016",
+    "items": [
+        {
+            "url": "https://css-tricks.com/a-specificity-battle/",
+            "desc": "A Specificity Battle! (and other trickery)",
+            "tags": ["css"]
+        },
+        {
+            "url": "https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz",
+            "desc": "React Tutorial using MERN stack",
+            "tags": ["react","mern"]
+        },
+        {
+            "url": "http://tympanus.net/codrops/2016/01/12/cinema-seat-preview-experiment/",
+            "desc": "Cinema Seat Preview Experiment",
+            "tags": ["ui","cinema"]
+        },
+        {
+            "url": "https://www.igvita.com/2016/01/12/the-average-page-is-a-myth/",
+            "desc": "The 'Average Page' is a myth",
+            "tags": ["performance"]
+        },
+        {
+            "url": "http://tobiasahlin.com/blog/curved-path-animations-in-css/",
+            "desc": "Moving along a curved path in CSS with layered animation",
+            "tags": ["css","animation"]
+        },
+        {
+            "url": "http://www.sitepoint.com/react-for-angular-developers/",
+            "desc": "React for Angular Developers",
+            "tags": ["react","angular","js"]
+        },
+        {
+            "url": "https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620",
+            "desc": "How to Learn ES6",
+            "tags": ["es6","js"]
+        },
+        {
+            "url": "https://ponyfoo.com/articles/asynchronous-i-o-with-generators-and-promises",
+            "desc": "Asynchronous I/O with Generators & Promises",
+            "tags": ["es6","generators","promises","js"]
+        },
+        {
+            "url": "https://blog.nraboy.com/2016/01/include-external-javascript-libraries-in-an-angular-2-typescript-project/",
+            "desc": "Include External JavaScript Libraries In An Angular 2 TypeScript Project",
+            "tags": ["angular","js"]
+        },
+        {
+            "url": "http://uxpajournal.org/the-effects-of-parallax-scrolling-on-user-experience-in-web-design/",
+            "desc": "The Effects of Parallax Scrolling on User Experience in Web Design",
+            "tags": ["ux","parallax"]
+        },
+        {
+            "url": "http://alistapart.com/article/blending-modes-demystified",
+            "desc": "Blending modes demystified",
+            "tags": ["css","blend-mode"]
+        },
+        {
+            "url": "http://www.sitepoint.com/parallel-javascript-with-paralleljs/",
+            "desc": "Parallel JavaScript with ParallelJS",
+            "tags": ["js","parallel"]
+        },
+        {
+            "url": "https://medium.com/@tomcornilliac/css-modules-solving-the-challenges-of-css-at-scale-85789980b04f",
+            "desc": "CSS Modules — Solving the challenges of CSS at scale",
+            "tags": ["css","modules"]
+        },
+        {
+            "url": "https://lacke.mn/reduce-your-bundle-js-file-size/",
+            "desc": "Reduce Your bundle.js File Size By Doing This One Thing",
+            "tags": ["performance","js"]
+        },
+        {
+            "url": "http://blog.codeship.com/understanding-garbage-collection-in-node-js/",
+            "desc": "Understanding Garbage Collection and Memory in Node.js",
+            "tags": ["js","node","gc"]
+        },
+        {
+            "url": "https://css-tricks.com/print-magazine-layouts-converted-to-web-layouts/",
+            "desc": "Influencing Web Layouts with Print Layouts",
+            "tags": ["css","print"]
+        },
+        {
+            "url": "https://daveceddia.com/testing-angular-part-1-karma-setup/",
+            "desc": "Not testing your Angular code? Here's how to start",
+            "tags": ["angular","tests","js"]
+        },
+        {
+            "url": "http://usersnap.com/blog/web-development-trends-2016/",
+            "desc": "12 web development trends you must know about in 2016",
+            "tags": ["2016"]
+        },
+        {
+            "url": "http://jordankoschei.com/itcss/",
+            "desc": "How I Shrank my CSS by 84kb by Refactoring with ITCSS",
+            "tags": ["css","itcss"]
+        },
+        {
+            "url": "http://www.hongkiat.com/blog/firefox-dev-tools/",
+            "desc": "Firefox Developer Edition: 6 Coolest Tools to Try",
+            "tags": ["firefox","dev-tools"]
+        }
+    ]
+}

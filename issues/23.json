@@ -1,0 +1,81 @@
+{
+    "number": "23",
+    "date": "21-09-2015",
+    "items": [
+        {
+            "url": "http://thenextweb.com/insider/2015/09/19/what-has-flash-ever-done-for-us-quite-a-lot-actually/",
+            "desc": "What has Flash ever done for us? Quite a lot, actually.",
+            "tags": ["flash"]
+        },
+        {
+            "url": "https://github.com/eatonphil/microjs",
+            "desc": "Everything you need from jQuery, none of the compatibility.",
+            "tags": ["jquery","library"]
+        },
+        {
+            "url": "https://code.facebook.com/posts/1189117404435352/",
+            "desc": "React Native for Android: How we built the first cross-platform React Native app",
+            "tags": ["react","android"]
+        },
+        {
+            "url": "http://getcontenttools.com/",
+            "desc": "A small & beautiful WYSIWYG editor for HTML content",
+            "tags": ["wysiwyg","ui"]
+        },
+        {
+            "url": "https://iliketomatoes.github.io/tabellajs/",
+            "desc": "Tabella js",
+            "tags": ["rwd","tables"]
+        },
+        {
+            "url": "https://viget.com/inspire/should-you-use-a-custom-scroll-indicator-a-study-with-eye-tracking",
+            "desc": "Should You Use a Custom Scroll Indicator? A Study with Eye-Tracking | Viget",
+            "tags": ["ux","scrolling"]
+        },
+        {
+            "url": "http://mediatemple.net/blog/tips/six-stunning-style-guides/",
+            "desc": "Six Stunning Style Guides - The Media Temple Blog",
+            "tags": ["style-guide"]
+        },
+        {
+            "url": "https://medium.com/jotform-form-builder/how-to-use-chrome-devtools-like-a-pro-b9bd414870e3",
+            "desc": "How to use Chrome DevTools like a Pro",
+            "tags": ["chrome","dev-tools"]
+        },
+        {
+            "url": "http://www.wired.com/2015/09/5-ideas-smarter-facebook-dislike-button/",
+            "desc": "5 Ideas for a Smarter Facebook ‘Dislike’ Button",
+            "tags": ["facebook","ui"]
+        },
+        {
+            "url": "https://urlmeta.org/",
+            "desc": "URL Meta - API to access meta of any URL",
+            "tags": ["tools","url"]
+        },
+        {
+            "url": "https://medium.com/jotform-form-builder/measuring-success-at-jotform-f92508cbd577",
+            "desc": "Measuring Success at JotForm",
+            "tags": ["ui","ux"]
+        },
+        {
+            "url": "http://dev-human.com/entries/2015/09/07/things-i-was-unprepared-for/",
+            "desc": "Things I was unprepared for as a lead developer",
+            "tags": ["project-management"]
+        },
+        {
+            "url": "https://medium.com/truth-labs/how-to-make-complex-icons-with-only-css-e135e6dc2c5e",
+            "desc": "How to make complex icons with only CSS — Truth Labs",
+            "tags": ["css","icons"]
+        },
+        {
+            "url": "http://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning/",
+            "desc": "ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?",
+            "tags": ["ecmascript","js"]
+        },
+        {
+            "url": "http://ponyfoo.com/articles/es6-proxies-in-depth",
+            "desc": "ES6 Proxies in Depth",
+            "tags": ["es6","proxy"]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "number": "29",
+    "date": "02-11-2015",
+    "items": [
+        {
+            "url": "https://medium.com/uie-brain-sparks/the-300-million-button-76b566ae5f73",
+            "desc": "The $300 Million Button — UIE Brain Sparks",
+            "tags": ["ui"]
+        },
+        {
+            "url": "https://medium.com/@kentcdodds/please-don-t-commit-commented-out-code-53d0b5b26d5f",
+            "desc": "Please, don’t commit commented out code",
+            "tags": ["code","commit"]
+        },
+        {
+            "url": "http://jamesknelson.com/why-you-shouldnt-style-with-javascript/",
+            "desc": "Why You Shouldn’t Style React Components With JavaScript",
+            "tags": ["react-js","js"]
+        },
+        {
+            "url": "http://webuniverse.io/cyclomatic-complexity-refactoring-tips/",
+            "desc": "Cyclomatic complexity refactoring tips for javascript developers",
+            "tags": ["js","cyclomatc-complexity"]
+        },
+        {
+            "url": "https://jennifermann.ghost.io/deleting-objects-in-javascript/",
+            "desc": "Deleting Objects in JavaScript",
+            "tags": ["js"]
+        },
+        {
+            "url": "http://una.im/CSSgram/",
+            "desc": "CSSgram - library for recreating Instagram filters with CSS filters and blend modes",
+            "tags": ["css","filter"]
+        },
+        {
+            "url": "https://wiki.csswg.org/ideas/mistakes",
+            "desc": "Incomplete List of Mistakes in the Design of CSS",
+            "tags": ["css"]
+        },
+        {
+            "url": "https://eek.ro/why-bpg-will-replace-gifs-and-not-only/",
+            "desc": "Why BPG will replace GIFs and not only.",
+            "tags": ["bpg","gif"]
+        },
+        {
+            "url": "http://codemyui.com/",
+            "desc": "Code My UI - Handpicked code snippets you can use in your web projects.",
+            "tags": ["ui","collection"]
+        },
+        {
+            "url": "https://css-tricks.com/background-image-shapes/",
+            "desc": "Background Image Shapes",
+            "tags": ["css","background"]
+        },
+        {
+            "url": "http://blogs.adobe.com/dreamweaver/2015/10/experts-weigh-in-whats-your-favorite-css-trick.html",
+            "desc": "What’s Your Favorite CSS Trick?",
+            "tags": ["css","tips-and-tricks"]
+        },
+        {
+            "url": "https://css-tricks.com/font-caption/",
+            "desc": "font: caption;",
+            "tags": ["css","typography"]
+        },
+        {
+            "url": "https://www.npmjs.com/package/purdy",
+            "desc": "npm: purdy - pretty print objects in real purdy colors",
+            "tags": ["npm","tools"]
+        },
+        {
+            "url": "http://talks.brennaobrien.com/svg-typography/",
+            "desc": "Creative Typography with SVG",
+            "tags": ["svg","typography"]
+        },
+        {
+            "url": "http://lmgonzalves.github.io/segment/",
+            "desc": "Segment - JavaScript class to draw and animate SVG path strokes",
+            "tags": ["js","svg"]
+        },
+        {
+            "url": "https://viget.com/inspire/angled-edges-with-css-masks-and-transforms",
+            "desc": "Angled Edges with CSS Masks and Transforms",
+            "tags": ["css","background"]
+        },
+        {
+            "url": "https://medium.com/salesforce-ux/designing-more-efficient-forms-10d23bc72c9f",
+            "desc": "Designing More Efficient Forms",
+            "tags": ["ui","ux"]
+        },
+        {
+            "url": "http://navnav.co/",
+            "desc": "NavNav - a ton of CSS, jQuery, and JavaScript responsive navigation examples",
+            "tags": ["navigation","ui","collection"]
+        }
+    ]
+}

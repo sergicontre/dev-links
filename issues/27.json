@@ -1,0 +1,86 @@
+{
+    "number": "27",
+    "date": "19-10-2015",
+    "items": [
+        {
+            "url": "http://jsfeatures.in/",
+            "desc": "JSfeatures.IN - All of the JavaScript features",
+            "tags": ["js","es6","es6","es7"]
+        },
+        {
+            "url": "http://darkpatterns.org/",
+            "desc": "Dark Patterns - User Interfaces Designed to Trick People",
+            "tags": ["ui","dark-patterns"]
+        },
+        {
+            "url": "http://bramstein.com/writing/web-font-anti-patterns.html",
+            "desc": "Web Font Anti-Patterns",
+            "tags": ["web-fonts","anti-patterns"]
+        },
+        {
+            "url": "http://alistapart.com/article/using-responsive-images-now",
+            "desc": "Using Responsive Images (Now)",
+            "tags": ["rwd","images"]
+        },
+        {
+            "url": "https://medium.com/simple-human/how-to-use-kaizen-thinking-to-design-better-7302e45aa80d",
+            "desc": "How to use Kaizen thinking to design better",
+            "tags": ["kaizen","design"]
+        },
+        {
+            "url": "http://mattdesl.svbtle.com/some-javascript-sketches",
+            "desc": "Some JavaScript Sketches",
+            "tags": ["js","design"]
+        },
+        {
+            "url": "http://photonkit.com/",
+            "desc": "Photon - The fastest way to build beautiful Electron apps using simple HTML and CSS",
+            "tags": ["electron","ui"]
+        },
+        {
+            "url": "http://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/",
+            "desc": "Effect Ideas for Image Grids",
+            "tags": ["ui","effects"]
+        },
+        {
+            "url": "https://unstyleapp.com/",
+            "desc": "The Fastest Way To Experience The Web - Unstyle",
+            "tags": ["app","performance"]
+        },
+        {
+            "url": "http://www.fontreach.com/",
+            "desc": "FontReach - scan the top million sites to show font usage across the web",
+            "tags": ["fonts","stats"]
+        },
+        {
+            "url": "http://www.sitepoint.com/currying-in-functional-javascript/",
+            "desc": "A Beginner's Guide to Currying in Functional JavaScript",
+            "tags": ["currying","js"]
+        },
+        {
+            "url": "http://dailyui.co",
+            "desc": "Daily UI - Become a better designer in 100 days",
+            "tags": ["ui","learning"]
+        },
+        {
+            "url": "http://googlewebmastercentral.blogspot.com/2015/10/deprecating-our-ajax-crawling-scheme.html",
+            "desc": "Deprecating our AJAX crawling scheme",
+            "tags": ["google","seo","ajax"]
+        },
+        {
+            "url": "http://colinkeany.com/blend/",
+            "desc": "Blend - Generate simple and beautiful CSS3 gradients.",
+            "tags": ["css","gradient","tools"]
+        },
+        {
+            "url": "https://auth0.com/blog/2015/10/14/7-things-you-should-know-about-web-assembly/",
+            "desc": "7 Things You Should Know About WebAssembly",
+            "tags": ["webassembly","js"]
+        },
+        {
+            "url": "https://ponyfoo.com/articles/es6",
+            "desc": "ES6 Overview in 350 Bullet Points",
+            "tags": ["es6","js"]
+        }
+    ]
+}

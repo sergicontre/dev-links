@@ -1,0 +1,81 @@
+{
+	"number": "22",
+	"date": "15-09-2015",
+	"items": [
+		{
+			"url": "https://github.com/flyjs/fly",
+			"desc": "Fly - New Generation Build System",
+			"tags": ["nodejs","build-system"]
+		},
+		{
+			"url": "http://engineering.devmag.io/post/1/creating-an-isomorphic-blogging-app-using-react-and-flux",
+			"desc": "Creating an Isomorphic Blogging app Using React and Flux",
+			"tags": ["reactjs","flux"]
+		},
+		{
+			"url": "http://tympanus.net/codrops/2015/09/15/styling-customizing-file-inputs-smart-way/",
+			"desc": "Styling & Customizing File Inputs the Smart Way",
+			"tags": ["ui","css"]
+		},
+		{
+			"url": "http://christianheilmann.com/2015/09/06/tinderesque-building-a-tinder-like-interface-with-css-animations-and-vanilla-js-justcode/",
+			"desc": "Tinderesque – building a Tinder-like interface with CSS animations and vanilla JS",
+			"tags": ["tinder","ui","js"]
+		},
+		{
+			"url": "https://webdesignledger.com/sketch-atomic-io",
+			"desc": "Why Sketch and Atomic.io are the Best Prototyping Duo",
+			"tags": ["sketch","prototyping"]
+		},
+		{
+			"url": "http://nexts.github.io/Jets.js/",
+			"desc": "Jets.js - native CSS search engine",
+			"tags": ["css","search"]
+		},
+		{
+			"url": "https://css-tricks.com/an-intro-to-css-testing-with-sonarqube/",
+			"desc": "An Intro to CSS Testing with SonarQube",
+			"tags": ["css","testing"]
+		},
+		{
+			"url": "http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results",
+			"desc": "The State of Front-End Tooling – 2015",
+			"tags": ["front-end","tools"]
+		},
+		{
+			"url": "https://medium.com/@dlpasco/apple-tv-a-world-without-webkit-5c428a64a6dd",
+			"desc": "Apple TV — a World Without Webviews",
+			"tags": ["apple-tv","webviews"]
+		},
+		{
+			"url": "http://webfieldmanual.com/",
+			"desc": "Web Field Manual",
+			"tags": ["ui"]
+		},
+		{
+			"url": "http://tools.subtraction.com/",
+			"desc": "The Tools Designers Are Using Today",
+			"tags": ["tools","design","survery"]
+		},
+		{
+			"url": "https://medium.com/@pdxd/why-your-first-hire-should-be-ux-954cd5800c01",
+			"desc": "Why Your First Hire Should be UX",
+			"tags": ["ux"]
+		},
+		{
+			"url": "http://mediatemple.net/blog/tips/7-ux-design-misconceptions-that-simply-arent-true/",
+			"desc": "Seven UX Design Misconceptions That Simply Aren’t True",
+			"tags": ["ux","misconceptions"]
+		},
+		{
+			"url": "http://thecalvinchan.com/blog/2015/09/05/faster-than-v8/",
+			"desc": "Building a prototype Javascript engine for MongoDB",
+			"tags": ["js","mongodb"]
+		},
+		{
+			"url": "http://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/",
+			"desc": "Promises in JavaScript Unit Tests: the Definitive Guide",
+			"tags": ["unit-tests","promises","js"]
+		}
+	]
+}

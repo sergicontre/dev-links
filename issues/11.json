@@ -1,0 +1,86 @@
+{
+	"number": "11",
+	"date": "28-06-2015",
+	"items": [
+		{
+			"url": "https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present",
+			"desc": "HTTP/2 is here, let’s optimise!",
+			"tags": ["http2","presentation"]
+		},
+		{
+			"url": "https://www.youtube.com/watch?v=n1cKlKM3jYI",
+			"desc": "An Introduction to Browser Rendering",
+			"tags": ["rendering","performance","video"]
+		},
+		{
+			"url": "https://www.mnot.net/talks/h2fe/?full",
+			"desc": "HTTP/2 (for Front-End Developers)",
+			"tags": ["http2","presentation"]
+		},
+		{
+			"url": "https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/",
+			"desc": "The Debate Around “Do We Even Need CSS Anymore?”",
+			"tags": ["css"]
+		},
+		{
+			"url": "http://projectseen.com/",
+			"desc": "Project “seen”",
+			"tags": ["typography"]
+		},
+		{
+			"url": "https://www.behance.net/gallery/12876403/Adobe-Remix-THE-PROJECT",
+			"desc": "Adobe Remix - THE PROJECT",
+			"tags": ["design","video"]
+		},
+		{
+			"url": "http://damonbauer.me/chrome-filmstrip/",
+			"desc": "Chrome filmstrip",
+			"tags": ["chrome","dev-tools"]
+		},
+		{
+			"url": "http://sarasoueidan.com/blog/css-shapes/",
+			"desc": "Creating non-rectangular layouts with CSS shapes",
+			"tags": ["css","shapes"]
+		},
+		{
+			"url": "http://tabatkins.github.io/specs/css-nesting/",
+			"desc": "CSS nesting specification",
+			"tags": ["css","nesting","specification"]
+		},
+		{
+			"url": "https://medium.com/@saijogeorge/creative-form-input-field-design-examples-bfe5dd50808a",
+			"desc": "Creative form input field design examples",
+			"tags": ["ui","form","input","design"]
+		},
+		{
+			"url": "http://kpdecker.github.io/six-speed/",
+			"desc": "ES2015 speed comparision",
+			"tags": ["es2015","speed","comparision"]
+		},
+		{
+			"url": "http://ben-evans.com/benedictevans/2015/6/19/presentation-mobile-is-eating-the-world",
+			"desc": "Mobile is eating the world",
+			"tags": ["mobile","presentation","market"]
+		},
+		{
+			"url": "http://es6katas.org/",
+			"desc": "ES2015 katas",
+			"tags": ["es2015","kata"]
+		},
+		{
+			"url": "https://github.com/coodict/javascript-in-one-pic",
+			"desc": "JavaScript in one picture",
+			"tags": ["javascript","visualisation"]
+		},
+		{
+			"url": "http://weightof.it/",
+			"desc": "Weight of popular JavaScript libraries",
+			"tags": ["comparision"]
+		},
+		{
+			"url": "http://www.minionsipsum.com/",
+			"desc": "Minions ipsum",
+			"tags": ["lorem-ipsum", "fun"]
+		}
+	]
+}

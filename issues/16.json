@@ -1,0 +1,87 @@
+
+{
+	"number": "16",
+	"date": "03-08-2015",
+	"items": [
+		{
+			"url": "http://samsung.github.io/jerryscript/",
+			"desc": "JerryScript - a JavaScript engine for Internet of Things",
+			"tags": ["js","embedded-systems"]
+		},
+		{
+			"url": "https://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html",
+			"desc": "Speeding up Javascript Test Time 1000x",
+			"tags": ["js","tests"]
+		},
+		{
+			"url": "https://github.com/KnpLabs/snappy",
+			"desc": "Snappy",
+			"tags": ["php","pdf"]
+		},
+		{
+			"url": "http://demosthenes.info/blog/1052/position-sticky-scroll-to-top-then-fixed-in-pure-CSS",
+			"desc": "position sticky: scroll-to-top-then-fixed in pure CSS",
+			"tags": ["css","sticky"]
+		},
+		{
+			"url": "http://www.sitepoint.com/introduction-to-open-source-licenses/",
+			"desc": "An Introduction to Open-source Licenses",
+			"tags": ["open-source","licensing"]
+		},
+		{
+			"url": "https://webdesignledger.com/26-free-animation-webdev-tuts",
+			"desc": "26 Free Animation Tutorials for Web Developers",
+			"tags": ["animation"]
+		},
+		{
+			"url": "https://medium.com/@yugenelee/everything-looks-the-same-part-1-8c489259697",
+			"desc": "Everything looks the same",
+			"tags": ["design"]
+		},
+		{
+			"url": "http://designmodo.com/hamburger-menu-icons/",
+			"desc": "New Ways to Use the Hamburger Icon",
+			"tags": ["ui","hamburger-menu"]
+		},
+		{
+			"url": "http://www.designhill.com/interactive-guide/famous-logos-hidden-meanings",
+			"desc": "Famous logos with their hidden meanings",
+			"tags": ["design","logo"]
+		},
+		{
+			"url": "https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3",
+			"desc": "26 digital typography rules for beginners",
+			"tags": ["typography"]
+		},
+		{
+			"url": "http://www.r2d3.us/visual-intro-to-machine-learning-part-1/",
+			"desc": "A Visual Introduction to Machine Learning",
+			"tags": ["visualization"]
+		},
+		{
+			"url": "http://json-generator.appspot.com/",
+			"desc": "JSON Generator - tool for generating random data",
+			"tags": ["json","mockup"]
+		},
+		{
+			"url": "http://blog.taucharts.com/taucharts-data-focused-charting-library/",
+			"desc": "TauCharts. Data focused javascript charting library.",
+			"tags": ["charts","js"]
+		},
+		{
+			"url": "http://blog.lauritz.me/linting-javascript-in-2015/",
+			"desc": "Linting JavaScript in 2015",
+			"tags": ["js","lint"]
+		},
+		{
+			"url": "http://aerolab.github.io/readremaining.js/",
+			"desc": "ReadRemaining.js",
+			"tags": ["js","ui","plugin","jquery"]
+		},
+		{
+			"url": "http://iamvdo.me/en/blog/advanced-css-filters",
+			"desc": "Advanced CSS filters",
+			"tags": ["css","filters"]
+		}
+	]
+}

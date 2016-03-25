@@ -1,0 +1,87 @@
+{
+	"number": "7",
+	"date": "30-05-2015",
+	"items": [
+		{
+			"url": "http://gizmodo.com/the-analog-origins-of-google-s-material-design-1707529074",
+			"desc": "The analog origins of Google's material design",
+			"tags": ["material-design", "analog"]
+		},
+		{
+			"url": "https://500ish.com/bots-thanking-bots-cdd467cdd18b",
+			"desc": "Bots thanking bots",
+			"tags": ["automation", "future"]
+		},
+		{
+			"url": "http://www.webdesignerdepot.com/2015/05/the-ultimate-guide-to-web-animation/",
+			"desc": "The ultimate guide to web animation",
+			"tags": ["guide", "animation", "css"]
+		},
+		{
+			"url": "https://medium.com/@millonestarde/thinking-like-an-app-designer-d3995935956f",
+			"desc": "Thinking like an app designer",
+			"tags": ["design", "app"]
+		},
+		{
+			"url": "http://marketblog.envato.com/trends/exploring-hero-image-trend-web-design/",
+			"desc": "Exploring hero image trend",
+			"tags": ["design"]
+		},
+		{
+			"url": "http://designmodo.com/time-interaction-design/",
+			"desc": "Time interaction design",
+			"tags": ["time", "design"]
+		},
+		{
+			"url": "https://www.weepower.com/",
+			"desc": "Wee - static page generator",
+			"tags": ["static", "generator"]
+		},
+		{
+			"url": "http://paulkinzett.github.io/toolbar/",
+			"desc": "Library for creating a toolbar with action icons",
+			"tags": ["ui", "library", "toolbar"]
+		},
+		{
+			"url": "http://basicmodal.electerious.com/",
+			"desc": "Modal mangement library",
+			"tags": ["ui", "modal", "popup"]
+		},
+		{
+			"url": "http://keycodes.atjayjo.com/",
+			"desc": "Interactive key codes cheatsheet",
+			"tags": ["keyboard", "cheatsheet"]
+		},
+		{
+			"url": "http://bgrins.github.io/devtools-snippets/",
+			"desc": "DevTools snippets",
+			"tags": ["chrome", "devtools"]
+		},
+		{
+			"url": "http://www.tinynudge.co/pomello/",
+			"desc": "Pomello - pomodoro technique for Trello",
+			"tags": ["trello", "pomodoro"]
+		},
+		{
+			"url": "https://vimeo.com/127694736",
+			"desc": "Logo for Earth",
+			"tags": ["video", "design"]
+		},
+		{
+			"url": "http://www.flagofplanetearth.com/",
+			"desc": "More about logo for Earth",
+			"tags": ["logo", "earth"]
+		},
+		{
+			"url": "http://bartaz.github.io/impress.js/",
+			"desc": "impress.js - Prezi-like engine in JS",
+			"tags": ["old-but-cool", "presentation", "tools"]
+		},
+		
+		{
+			"url": "https://www.august.com.au/",
+			"desc": "Great and non-flat design with nice header scrolling scrolling effects",
+			"tags": ["layout-of-the-week","design"]
+		}
+	]
+}

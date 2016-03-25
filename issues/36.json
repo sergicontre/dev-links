@@ -1,0 +1,126 @@
+{
+    "number": "36",
+    "date": "21-12-2015",
+    "items": [
+        {
+            "url": "http://tympanus.net/codrops/2015/12/16/animated-map-path-for-interactive-storytelling/",
+            "desc": "Animated Map Path for Interactive Storytelling",
+            "tags": ["ui","animation"]
+        },
+        {
+            "url": "https://css-tricks.com/smil-is-dead-long-live-smil-a-guide-to-alternatives-to-smil-features/",
+            "desc": "SMIL is dead! Long live SMIL! A Guide to Alternatives to SMIL Features",
+            "tags": ["smil", "animation"]
+        },
+        {
+            "url": "http://www.sitepoint.com/five-simple-ways-to-build-artificial-intelligence-in-2016/",
+            "desc": "Five Simple Ways to Build Artificial Intelligence in 2016",
+            "tags": ["ai"]
+        },
+        {
+            "url": "http://blog.invisionapp.com/design-trends/",
+            "desc": "4 things to consider before adopting a design trend",
+            "tags": ["webdesign"]
+        },
+        {
+            "url": "http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/",
+            "desc": "What Progressive Web Apps Mean for the Web",
+            "tags": ["web","apps"]
+        },
+        {
+            "url": "http://www.codelord.net/2015/12/10/angular-1-dot-5-is-close-heres-the-interesting-parts/",
+            "desc": "Angular 1.5 is close - here's the interesting parts",
+            "tags": ["angular","js"]
+        },
+        {
+            "url": "http://www.sitepoint.com/google-maps-made-easy-with-gmaps-js/",
+            "desc": "Google Maps Made Easy with GMaps.js",
+            "tags": ["ui","maps","library","js"]
+        },
+        {
+            "url": "http://www.sitepoint.com/beginners-guide-webgl/",
+            "desc": "A Beginner's Guide to WebGL",
+            "tags": ["webgl","guide"]
+        },
+        {
+            "url": "http://angularjs.blogspot.com/2015/12/angular-2-beta.html",
+            "desc": "AngularJS: Angular 2 Beta",
+            "tags": ["angular","beta","js"]
+        },
+        {
+            "url": "http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/",
+            "desc": "Quick Tip: Stop Writing Loops and Start Thinking with Maps",
+            "tags": ["js","map"]
+        },
+        {
+            "url": "http://uxmovement.com/forms/why-passphrases-are-more-user-friendly-than-passwords/",
+            "desc": "Why Passphrases Are More User-Friendly Than Passwords",
+            "tags": ["ux","ui","passwords"]
+        },
+        {
+            "url": "https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475",
+            "desc": "16 Web & Graphic Design Trends To Watch In 2016",
+            "tags": ["webdesign","2016"]
+        },
+        {
+            "url": "http://flexbox.help/",
+            "desc": "Test CSS Flexbox Rules Live",
+            "tags": ["css","flexbox"]
+        },
+        {
+            "url": "https://medium.com/@kennycheny/the-best-user-experience-design-links-of-2015-5f4b50b2a6bc",
+            "desc": "The Best User Experience Design Links of 2015",
+            "tags": ["ux","collection","2015"]
+        },
+        {
+            "url": "http://www.codelord.net/2015/12/17/angulars-component-what-is-it-good-for/",
+            "desc": "Angular's .component - what is it good for?",
+            "tags": ["angularjs","js"]
+        },
+        {
+            "url": "http://bouncejs.com/",
+            "desc": "Bounce.js - tool and JS library that lets you create beautiful CSS3 powered animations.",
+            "tags": ["ui","animation","library","js"]
+        },
+        {
+            "url": "https://www.duolingo.com/design/",
+            "desc": "Duolingo: Design Guidelines",
+            "tags": ["ui","guideline"]
+        },
+        {
+            "url": "https://aframe.io/",
+            "desc": "A-Frame - building blocks for the virtual reality web",
+            "tags": ["augemented-reality"]
+        },
+        {
+            "url": "https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/",
+            "desc": "The Web Accessibility basics",
+            "tags": ["accessibility"]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2015/12/animating-clipped-elements-svg/",
+            "desc": "Animating Clipped Elements In SVG",
+            "tags": ["svg","animation"]
+        },
+        {
+            "url": "https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467",
+            "desc": "Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016.",
+            "tags": ["js","market"]
+        },
+        {
+            "url": "https://auth0.com/blog/2015/12/15/create-a-desktop-app-with-angular-2-and-electron/",
+            "desc": "Create a Desktop App with Angular 2 and Electron",
+            "tags": ["angular","electron","js"]
+        },
+        {
+            "url": "https://developers.google.com/web/showcase/case-study/lightsaber",
+            "desc": "Creating a Lightsaber with Polymer",
+            "tags": ["polymer","js"]
+        },
+        {
+            "url": "https://24ways.org/2015/animation-in-responsive-design/",
+            "desc": "Animation in Responsive Design",
+            "tags": ["animation","rwd"]
+        }
+    ]
+}

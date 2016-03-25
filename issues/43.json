@@ -1,0 +1,96 @@
+{
+    "number": "43",
+    "date": "08-02-2016",
+    "items": [
+        {
+            "url": "https://aerotwist.com/blog/the-hack-is-back/",
+            "desc": "The Hack is Back!",
+            "tags": ["performance","images"]
+        },
+        {
+            "url": "http://www.sitepoint.com/developing-a-static-site-generator-workflow/",
+            "desc": "Developing a Static Site Generator Workflow",
+            "tags": ["static-www","workflow"]
+        },
+        {
+            "url": "https://github.com/AriaFallah/WebpackTutorial/blob/master/part1/README.md",
+            "desc": "Webpack Tutorial",
+            "tags": ["webpack"]
+        },
+        {
+            "url": "http://www.codelord.net/2016/02/03/angular-2-migration-whats-ng-forward/",
+            "desc": "Angular 2 migration: what's ng-forward?",
+            "tags": ["angular","js"]
+        },
+        {
+            "url": "http://www.sitepoint.com/data-flows-angular-2-redux/",
+            "desc": "Data Flows with Angular 2 and Redux",
+            "tags": ["angular","redux","js"]
+        },
+        {
+            "url": "http://cdncomparison.com/",
+            "desc": "CDN comparison",
+            "tags": ["cdn","comparison"]
+        },
+        {
+            "url": "https://m.signalvnoise.com/control-your-type-google-fonts-chrome-trouble-c21e1a106436",
+            "desc": "Control Your Type: Google Fonts + Chrome = trouble?",
+            "tags": ["webfonts","chrome"]
+        },
+        {
+            "url": "https://medium.com/@optimiseordie/the-list-of-ux-tools-to-rule-them-all-a1970b9e9c06",
+            "desc": "The List of UX Tools to Rule Them All",
+            "tags": ["ux","tools"]
+        },
+        {
+            "url": "http://blog.dripstat.com/why-we-switched-from-jspm-to-webpack/",
+            "desc": "JSPM vs Webpack: Why we switched from JSPM to WebPack",
+            "tags": ["jspm","webpack"]
+        },
+        {
+            "url": "http://www.sitepoint.com/building-a-react-universal-blog-app-implementing-flux/",
+            "desc": "Building a React Universal Blog App: Implementing Flux",
+            "tags": ["react","flux","js"]
+        },
+        {
+            "url": "https://hughfdjackson.com/javascript/does-curry-help/",
+            "desc": "Does Curry Help?",
+            "tags": ["js","currying"]
+        },
+        {
+            "url": "http://www.webdesignerdepot.com/2016/02/50-fresh-resources-for-designers-february-2016/",
+            "desc": "50+ fresh resources for designers, February 2016",
+            "tags": ["webdesign"]
+        },
+        {
+            "url": "http://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/",
+            "desc": "ES6 Arrow Functions: The New Fat & Concise Syntax in JavaScript",
+            "tags": ["es6","arrow-functins","js"]
+        },
+        {
+            "url": "https://www.smashingmagazine.com/2016/02/writing-next-generation-reusable-javascript-modules/",
+            "desc": "Writing Next Generation Reusable JavaScript Modules in ECMAScript 6",
+            "tags": ["es6","modules"]
+        },
+        {
+            "url": "http://takeoff.brew.com.hk/",
+            "desc": "Takeoff - Free, Responsive Landing Page Template for Apps",
+            "tags": ["template"]
+        },
+        {
+            "url": "https://yabwe.github.io/medium-editor/",
+            "desc": "MediumEditor",
+            "tags": ["ui","editor"]
+        },
+        {
+            "url": "http://www.sitepoint.com/angular-2-components-providers-classes-factories-values/",
+            "desc": "Angular 2 Components and Providers: Classes, Factories & Values",
+            "tags": ["angular","js"]
+        },
+        {
+        	"url": "https://css-tricks.com/the-backgound-clip-property-and-use-cases/",
+        	"desc": "The background-clip property and use cases",
+        	"tags": ["css","background-clip"]
+        }
+    ]
+}

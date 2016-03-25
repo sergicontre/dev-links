@@ -1,0 +1,66 @@
+{
+	"number": "8",
+	"date": "07-06-2015",
+	"items": [
+		{
+			"url": "https://umaar.com/dev-tips/44-inspect-the-inspector/",
+			"desc": "Inception in Chrome Dev Tools",
+			"tags": ["chrome", "devtools"]
+		},
+		{
+			"url": "http://pdfmake.org/index.html#/",
+			"desc": "Library in JS for generating PDF files",
+			"tags": ["js", "pdf", "library"]
+		},
+		{
+			"url": "http://blog.500tech.com/is-reactjs-fast/",
+			"desc": "Is ReactJS Fast?",
+			"tags": ["js", "reactjs", "performance"]
+		},
+		{
+			"url": "http://stackoverflow.com/questions/30559225/how-to-create-abstract-base-class-in-javascript-that-cant-be-instantiated/30560872#30560872",
+			"desc": "Abstract class implementation in ES2015",
+			"tags": ["js", "es2015"]
+		},
+		{
+			"url": "http://www.zachleat.com/web/mitt-romney-webfont-problem/",
+			"desc": "Mitt Romney Web Font Problem",
+			"tags": ["font", "typography"]
+		},
+		{
+			"url": "https://remysharp.com/2015/06/02/bind",
+			"desc": "bind.js - simple two way data-binding",
+			"tags": ["js", "library", "binding"]
+		},
+		{
+			"url": "http://javascriptplayground.com/blog/2015/05/the-state-of-javascript/",
+			"desc": "The State of JavaScript",
+			"tags": ["js"]
+		},
+		{
+			"url": "http://codepen.io/allanpope/full/eNgGJm/",
+			"desc": "Counter based on particles",
+			"tags": ["demo", "js"]
+		},
+		{
+			"url": "https://hacks.mozilla.org/2015/06/new-performance-tools-in-firefox-developer-edition-40/",
+			"desc": "New performance tools in Firefox DE 40",
+			"tags": ["firefox", "performance"]
+		},
+		{
+			"url": "http://sixrevisions.com/css/css-specificity/",
+			"desc": "CSS specificity",
+			"tags": ["css"]
+		},
+		{
+			"url": "https://developers.google.com/fonts/docs/getting_started#Effects",
+			"desc": "Google Fonts effects",
+			"tags": ["font", "google"]
+		},
+		{
+			"url": "http://davidwalsh.name/essential-javascript-functions",
+			"desc": "7 Essential JavaScript Functions",
+			"tags": ["js"]
+		}
+	]
+}

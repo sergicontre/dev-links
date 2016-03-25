@@ -1,0 +1,96 @@
+{
+    "number": "25",
+    "date": "05-10-2015",
+    "items": [
+        {
+            "url": "http://zenorocha.github.io/clipboard.js/",
+            "desc": "clipboard.js",
+            "tags": ["clipboard","js"]
+        },
+        {
+            "url": "http://pixelmap.amcharts.com/",
+            "desc": "Pixel Map Generator",
+            "tags": ["pixel","generator","map"]
+        },
+        {
+            "url": "http://quenchjs.com/",
+            "desc": "Quench: The Gulp file generator.",
+            "tags": ["gulp","generator"]
+        },
+        {
+            "url": "https://css-tricks.com/why-do-we-have-repeating-linear-gradient-anyway/",
+            "desc": "Why Do We Have `repeating-linear-gradient` Anyway?",
+            "tags": ["css","gradient"]
+        },
+        {
+            "url": "https://playbook.cio.gov/designstandards/",
+            "desc": "U.S. Web Design Standards",
+            "tags": ["style-guide"]
+        },
+        {
+            "url": "http://iosdesign.ivomynttinen.com/",
+            "desc": "The iOS Design Guidelines",
+            "tags": ["ios","design"]
+        },
+        {
+            "url": "http://www.nngroup.com/articles/flat-design/",
+            "desc": "Flat Design: Its Origins, Its Problems, and Why Flat 2.0 Is Better for Users",
+            "tags": ["flat","design"]
+        },
+        {
+            "url": "https://medium.com/@alexhuang7/a-redesign-of-tesla-s-dashboard-ui-20f1aaadc11e",
+            "desc": "A Redesign of Tesla’s Dashboard UI",
+            "tags": ["ui","redesign"]
+        },
+        {
+            "url": "http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx",
+            "desc": "JavaScript goes to Asynchronous city",
+            "tags": ["async","js"]
+        },
+        {
+            "url": "https://github.com/eorroe/NodeList.js",
+            "desc": "NodeList.js - Use the Native DOM APIs as easily as jQuery",
+            "tags": ["dom","js"]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/",
+            "desc": "Introducing RAIL: A User-Centric Model For Performance",
+            "tags": ["performance"]
+        },
+        {
+            "url": "https://css-tricks.com/image-diffing-in-css/",
+            "desc": "Image Diffing in CSS",
+            "tags": ["css","tricks"]
+        },
+        {
+            "url": "http://eslint.org/",
+            "desc": "ESLint - Pluggable JavaScript linter",
+            "tags": ["es","linter","js"]
+        },
+        {
+            "url": "https://aerotwist.com/blog/cors-for-concern/",
+            "desc": "CORS for Concern",
+            "tags": ["cors"]
+        },
+        {
+            "url": "https://medium.com/@Fuseboard/top-3-animation-features-in-chrome-developer-tools-8caa637ffbc6",
+            "desc": "Top 3 Animation Features in Chrome Developer Tools",
+            "tags": ["chrome","dev-tools","animation"]
+        },
+        {
+            "url": "https://medium.com/@pkkoczorowski/the-8-worst-ux-mistakes-coming-from-experts-692884971f80",
+            "desc": "The 8 Worst UX Mistakes Coming From Experts",
+            "tags": ["ux","mistakes"]
+        },
+        {
+            "url": "http://flif.info/",
+            "desc": "FLIF - Free Lossless Image Format",
+            "tags": ["format","image"]
+        },
+        {
+            "url": "http://partyline.rocks/blog/futureofui/",
+            "desc": "The future of UI is text",
+            "tags": ["ui","text"]
+        }
+    ]
+}

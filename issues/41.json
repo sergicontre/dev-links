@@ -1,0 +1,106 @@
+{
+    "number": "41",
+    "date": "25-01-2016",
+    "items": [
+        {
+            "url": "https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9",
+            "desc": "What’s the Difference Between Class & Prototypal Inheritance?",
+            "tags": ["js","prototype","class"]
+        },
+        {
+            "url": "http://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/",
+            "desc": "Object-Oriented JavaScript — A Deep Dive into ES6 Classes",
+            "tags": ["es6","js","class"]
+        },
+        {
+            "url": "https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03",
+            "desc": "JavaScript At Scale — Achieving High Velocity",
+            "tags": ["js","scale"]
+        },
+        {
+            "url": "http://www.codelord.net/2016/01/14/adding-the-first-angular-2-component-to-your-angular-1-app/",
+            "desc": "Adding the first Angular 2 component to your Angular 1 app",
+            "tags": ["angular","js"]
+        },
+        {
+            "url": "https://webkit.org/blog/5718/10-years-of-web-inspector/",
+            "desc": "10 Years of Web Inspector",
+            "tags": ["tools","history"]
+        },
+        {
+            "url": "https://github.com/marcog83/RoboJS",
+            "desc": "RoboJS - library that aims to dynamically load JS modules depending on how the DOM is composed",
+            "tags": ["js","dom"]
+        },
+        {
+            "url": "http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/",
+            "desc": "5 Steps for Learning React Application Development",
+            "tags": ["js","react"]
+        },
+        {
+            "url": "http://www.sitepoint.com/6-web-development-myths-microsoft-edge/",
+            "desc": "6 Web Development Myths about Microsoft Edge",
+            "tags": ["edge"]
+        },
+        {
+            "url": "http://www.codelord.net/2016/01/20/setting-up-seo-on-an-angular-app/",
+            "desc": "Setting up SEO in an Angular app",
+            "tags": ["angular","js","seo"]
+        },
+        {
+            "url": "https://www.discovermeteor.com/blog/the-state-of-meteor-part-2-what-happens-next/",
+            "desc": "The State Of Meteor Part 2: What Happens Next",
+            "tags": ["js","meteor"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/keeping-promises-with-javascript--cms-25056",
+            "desc": "Keeping Promises With JavaScript",
+            "tags": ["js","promise"]
+        },
+        {
+            "url": "http://www.sitepoint.com/whats-new-jquery-use/",
+            "desc": "What’s New in jQuery 3.0 and How to Use It",
+            "tags": ["jquery"]
+        },
+        {
+            "url": "http://simulacra.js.org/",
+            "desc": "Simulcra.js - one-way data binding for web applications",
+            "tags": ["js","data-binding"]
+        },
+        {
+            "url": "http://www.hongkiat.com/blog/webp-guide/",
+            "desc": "Complete Guide to Using WebP Image Format",
+            "tags": ["webp"]
+        },
+        {
+            "url": "https://blog.risingstack.com/react-js-best-practices-for-2016/",
+            "desc": "React.js Best Practices for 2016",
+            "tags": ["react","js"]
+        },
+        {
+            "url": "http://www.zell-weekeat.com/responsive-typography/",
+            "desc": "Everything I know about responsive web typography with CSS",
+            "tags": ["typography","rwd","css"]
+        },
+        {
+            "url": "https://medium.com/@primozcigler/neat-trick-for-css-object-fit-fallback-on-edge-and-other-browsers-afbc53bbb2c3",
+            "desc": "Neat trick for CSS object-fit fallback on Edge (and other browsers)",
+            "tags": ["css","object-fit"]
+        },
+        {
+            "url": "https://www.christianheilmann.com/2016/01/16/dont-tell-me-what-my-browser-cant-do/",
+            "desc": "Don’t tell me what my browser can’t do!",
+            "tags": ["ux"]
+        },
+        {
+            "url": "http://blog.reybango.com/2016/01/20/which-browser-extensions-do-web-developers-use/",
+            "desc": "Which Browser Extensions do Web Developers Use?",
+            "tags": ["tools"]
+        },
+        {
+            "url": "http://finda.photo/",
+            "desc": "FindA.Photo: 10,000 completely free stock photos to use for any purpose",
+            "tags": ["design","photos"]
+        }
+    ]
+}

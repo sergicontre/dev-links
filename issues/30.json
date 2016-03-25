@@ -1,0 +1,121 @@
+{
+    "number": "30",
+    "date": "09-11-2015",
+    "items": [
+        {
+            "url": "http://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/",
+            "desc": "Why Static Website Generators Are The Next Big Thing",
+            "tags": ["static","generators"]
+        },
+        {
+            "url": "http://thenewcode.com/82/Recipes-for-Randomness-in-JavaScript",
+            "desc": "Recipes for Randomness in JavaScript",
+            "tags": ["random","js"]
+        },
+        {
+            "url": "https://css-tricks.com/animating-the-content-property/",
+            "desc": "Animating the `content` Property",
+            "tags": ["css","content"]
+        },
+        {
+            "url": "http://www.sitepoint.com/3-ways-prevent-web-design-generic/",
+            "desc": "3 Ways to Prevent Your Web Design from Becoming Generic",
+            "tags": ["web-design","generic"]
+        },
+        {
+            "url": "http://www.nngroup.com/articles/multi-tab-page-parking/",
+            "desc": "Page Parking: Millennials' Multi-Tab Mania",
+            "tags": ["ux","tabs"]
+        },
+        {
+            "url": "https://css-tricks.com/the-image-replacement-museum/",
+            "desc": "The Image Replacement Museum",
+            "tags": ["css"]
+        },
+        {
+            "url": "http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/",
+            "desc": "Complete Beginner's Guide to Interaction Design",
+            "tags": ["design","interaction"]
+        },
+        {
+            "url": "http://alistapart.com/article/how-we-hold-our-gadgets",
+            "desc": "How we hold our gadgets",
+            "tags": ["ui","mobile"]
+        },
+        {
+            "url": "http://philipwalton.com/articles/do-we-actually-need-specificity-in-css/",
+            "desc": "Do We Actually Need Specificity In CSS?",
+            "tags": ["css"]
+        },
+        {
+            "url": "http://www.sitepoint.com/pseudo-comments-in-css-or-how-browsers-parse-styles/",
+            "desc": "Pseudo-comments in CSS (Or, How Browsers Parse Styles)",
+            "tags": ["css","comments"]
+        },
+        {
+            "url": "https://medium.com/@usemuzli/long-shadow-is-dead-welcome-diffuse-shadows-6a1f2ee9a6fe",
+            "desc": "Long shadow is dead. Welcome Diffuse shadows.",
+            "tags": ["design","shadows"]
+        },
+        {
+            "url": "https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75",
+            "desc": "JavaScript ES6+: var, let, or const?",
+            "tags": ["es6","js"]
+        },
+        {
+            "url": "http://blog.wolksoftware.com/microlibraries-the-future-of-web-development",
+            "desc": "Micro-libraries: the future of front-end development?",
+            "tags": ["js"]
+        },
+        {
+            "url": "https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308",
+            "desc": "The Single Biggest Mistake Programmers Make Every Day",
+            "tags": ["js","webdevelopment"]
+        },
+        {
+            "url": "https://garris.github.io/BackstopJS/",
+            "desc": "BackstopJS: Catch CSS curve balls",
+            "tags": ["testing","rwd"]
+        },
+        {
+            "url": "https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85",
+            "desc": "The Nine States of Design",
+            "tags": ["design"]
+        },
+        {
+            "url": "http://regex.learncodethehardway.org/book/",
+            "desc": "Learn Regex The Hard Way",
+            "tags": ["regexp"]
+        },
+        {
+            "url": "http://benjamn.github.io/empirenode-2015/",
+            "desc": "The importance of import and export",
+            "tags": ["import","export","js"]
+        },
+        {
+            "url": "http://devtoolschallenger.com/",
+            "desc": "Firefox DevTools Challenger",
+            "tags": ["firefox","dev-tools"]
+        },
+        {
+            "url": "https://github.com/williamngan/roll",
+            "desc": "roll.js - roll and scroll tracking",
+            "tags": ["ui"]
+        },
+        {
+            "url": "http://ilyashubin.github.io/FilterBlend/",
+            "desc": "Filter Blend - CSS blend modes and filters playground",
+            "tags": ["css","blend-modes"]
+        },
+        {
+            "url": "http://pantonesmoothies.com/",
+            "desc": "Pantone Smoothies",
+            "tags": ["colors","fun"]
+        },
+        {
+            "url": "https://medium.com/@danielrakh/twitter-rooms-e6f34e843e9a",
+            "desc": "Twitter Rooms",
+            "tags": ["ui","concept","twitter"]
+        }
+    ]
+}

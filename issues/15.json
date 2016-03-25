@@ -1,0 +1,72 @@
+
+{
+	"number": "15",
+	"date": "27-07-2015",
+	"items": [
+		{
+			"url": "http://youmightnotneedjqueryplugins.com/",
+			"desc": "You might not need jQuery plugins",
+			"tags": ["jquery","plugins"]
+		},
+		{
+			"url": "https://www.behance.net/gallery/28015103/IKEA-Redesign-UI-UX-Design",
+			"desc": "IKEA redesign",
+			"tags": ["redesign"]
+		},
+		{
+			"url": "http://hugeinc.github.io/styleguide/",
+			"desc": "Styleguide: a tool to make creating and maintaining styleguides easy.",
+			"tags": ["styleguide","github"]
+		},
+		{
+			"url": "http://commandlinepoweruser.com/",
+			"desc": "Command Line Power User",
+			"tags": ["cli","tools"]
+		},
+		{
+			"url": "https://remysharp.com/2015/07/13/optimising-a-canvas-animation",
+			"desc": "Optimising a canvas animation",
+			"tags": ["canvas","js"]
+		},
+		{
+			"url": "https://github.com/billautomata/d3js_design_patterns",
+			"desc": "D3.js design patterns",
+			"tags": ["d3","js"]
+		},
+		{
+			"url": "http://blittle.github.io/chrome-dev-tools/",
+			"desc": "Down and Dirty with Chrome Developer Tools",
+			"tags": ["chrome","dev-tools"]
+		},
+		{
+			"url": "http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html",
+			"desc": "Refactoring Tales",
+			"tags": ["refactor","js"]
+		},
+		{
+			"url": "https://medium.com/@zackargyle/the-5-es7-decorators-i-want-to-use-now-ca40d1d5c114",
+			"desc": "The 5 ES7 decorators I want to use now",
+			"tags": ["js","es7","decorator"]
+		},
+		{
+			"url": "http://www.2ality.com/2015/07/es6-module-exports.html",
+			"desc": "What do ES6 modules export?",
+			"tags": ["es6","modules"]
+		},
+		{
+			"url": "https://medium.com/@PitaJ/stop-classifying-javascript-4cc823dfbedf",
+			"desc": "Stop classifying JavaScript",
+			"tags": ["js"]
+		},
+		{
+			"url": "https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/",
+			"desc": "ES6 in depth: Proxies",
+			"tags": ["es6","proxy"]
+		},
+		{
+			"url": "https://medium.com/@sophie_paxtonUX/stop-gratuitous-ui-animation-9ece9aa9eb97",
+			"desc": "Stop Gratuitous UI Animation",
+			"tags": ["ui","animation"]
+		}
+	]
+}

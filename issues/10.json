@@ -1,0 +1,76 @@
+{
+	"number": "10",
+	"date": "21-06-2015",
+	"items": [
+		{
+			"url": "https://github.com/codegolf/pac-man",
+			"desc": "Pac-Man in < 512 Bytes of HTML and JavaScript",
+			"tags": ["js","512b"]
+		},
+		{
+			"url": "http://codingfrenzy.net/to-bem-or-not-to-bem/",
+			"desc": "To BEM or not to BEM",
+			"tags": ["css", "bem"]
+		},
+		{
+			"url": "http://wesbos.com/overwhelmed-with-web-development/",
+			"desc": "On being overwhelmed with our fast paced industry",
+			"tags": ["life", "js"]
+		},
+		{
+			"url": "https://github.com/jlevy/the-art-of-command-line",
+			"desc": "The Art of Command Line",
+			"tags": ["cli"]
+		},
+		{
+			"url": "http://fastcompany.com/3047340/evidence/how-your-brain-understands-visual-language",
+			"desc": "How Your Brain Understands Visual Language",
+			"tags": ["design"]
+		},
+		{
+			"url": "http://blog.neax.de/messages/",
+			"desc": "Visualizing 1500 messages",
+			"tags": ["js", "processing", "visualization"]
+		},
+		{
+			"url": "http://arstechnica.com/information-technology/2015/06/the-web-is-getting-its-bytecode-webassembly/",
+			"desc": "The Web is getting its bytecode: WebAssembly",
+			"tags": ["web-assembly", "js"]
+		},
+		{
+			"url": "http://dynamicsjs.com/",
+			"desc": "Dynamics.js - JavaScript library to create physics-based animations",
+			"tags": ["js", "library", "animations"]
+		},
+		{
+			"url": "http://tympanus.net/Development/CardExpansion/",
+			"desc": "Card Expansion Effect with SVG clipPath",
+			"tags": ["css", "svg", "animations"]
+		},
+		{
+			"url": "http://leaverou.github.io/conic-gradient/",
+			"desc": "CSS conic-gradient() polyfill",
+			"tags": ["css", "gradient", "polyfill"]
+		},
+		{
+			"url": "http://bit-player.org/2015/traffic-jams-in-javascript",
+			"desc": "Traffic Jams in Javascript",
+			"tags": ["js", "simulation"]
+		},
+		{
+			"url": "http://www.infoq.com/news/2015/06/ecmascript-2015-es6",
+			"desc": "ECMAScript 2015 Has Been Approved",
+			"tags": ["js", "es2015"]
+		},
+		{
+			"url": "https://github.com/evanw/lightgl.js/",
+			"desc": "lightgl.js - A lightweight WebGL library",
+			"tags": ["webgl", "js"]
+		},
+		{
+			"url": "https://github.com/Huddle/PhantomCSS",
+			"desc": "PhantomCSS - Visual/CSS regression testing with PhantomJS",
+			"tags": ["css", "testing", "image-comparision"]
+		}
+	]
+}

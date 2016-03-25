@@ -1,0 +1,96 @@
+{
+    "number": "38",
+    "date": "04-01-2016",
+    "items": [
+        {
+            "url": "https://github.com/NYTimes/gizmo/",
+            "desc": "Gizmo Microservice Toolkit",
+            "tags": ["js","microservices"]
+        },
+        {
+            "url": "http://www.wired.com/2015/12/2015-the-year-that-open-source-software-went-nuclear/",
+            "desc": "Open Source Software Went Nuclear This Year",
+            "tags": ["open-source"]
+        },
+        {
+            "url": "https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/",
+            "desc": "How many people are missing out on JavaScript enhancement?",
+            "tags": ["js"]
+        },
+        {
+            "url": "http://www.hongkiat.com/blog/developers-new-year-resolutions/",
+            "desc": "Developers: 20 Ways to Challenge Yourself Come 2016",
+            "tags": ["2016"]
+        },
+        {
+            "url": "http://fbrctr.github.io/",
+            "desc": "Fabricator - Build your UI toolkit",
+            "tags": ["ui"]
+        },
+        {
+            "url": "https://medium.com/simple-human/why-hover-menus-are-problematic-b21d6c7de91c",
+            "desc": "Why hover menus are problematic",
+            "tags": ["menu","ui"]
+        },
+        {
+            "url": "http://www.wired.com/2015/12/this-was-the-year-the-media-began-to-doubt-the-web/",
+            "desc": "This Was the Year the Media Started Doubting the Web",
+            "tags": ["web"]
+        },
+        {
+            "url": "https://css-tricks.com/should-i-use-a-video-as-a-background/",
+            "desc": "Shoud I use a video as a background?",
+            "tags": ["css","background","video"]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2015/12/revisiting-firefox-devtools/",
+            "desc": "Revisiting Firefox’s DevTools",
+            "tags": ["firefox","devtools"]
+        },
+        {
+            "url": "https://umaar.com/dev-tips/88-cpu-throttling/",
+            "desc": "CPU Throttling - Chrome DevTools",
+            "tags": ["chrome", "devtools"]
+        },
+        {
+            "url": "http://www.iamapioneer.com/plugins/rollerblade/",
+            "desc": "Rollerblade.js, a jQuery plugin for making awesome image things.",
+            "tags": ["jquery","360deg"]
+        },
+        {
+            "url": "http://www.poormansstyleguide.com/",
+            "desc": "Poor Man's Styleguide - A frontend styleguide for the pragmatic",
+            "tags": ["css","styleguide"]
+        },
+        {
+            "url": "http://updateyourfooter.com/",
+            "desc": "Update Your Footer",
+            "tags": ["ui"]
+        },
+        {
+            "url": "http://brolik.com/blog/when-to-use-flexbox/",
+            "desc": "When to use Flexbox",
+            "tags": ["css","flexbox"]
+        },
+        {
+            "url": "https://medium.com/one-side-project-challenge/50-inspiring-side-projects-to-follow-in-2016-69f3e5e57048",
+            "desc": "50+ Inspiring Side Projects to Follow in 2016",
+            "tags": ["sideprojects"]
+        },
+        {
+            "url": "https://www.behance.net/gallery/32154055/Minimalist-Color-Palettes-2015",
+            "desc": "Minimalist Color Palletes",
+            "tags": ["design","colors","2015"]
+        },
+        {
+            "url": "http://tympanus.net/codrops2015/",
+            "desc": "2015: Our Favorite Codrops Resources",
+            "tags": ["2015","collection"]
+        },
+        {
+            "url": "http://brand-colors.com/",
+            "desc": "Brand Colors",
+            "tags": ["colors","design"]
+        }
+    ]
+}

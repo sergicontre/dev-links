@@ -1,0 +1,86 @@
+{
+	"number": "17",
+	"date": "10-08-2015",
+	"items": [
+		{
+			"url": "http://www.calltoidea.com/",
+			"desc": "Calltoidea - Get quickly inspiration",
+			"tags": ["ui","collection","patterns"]
+		},
+		{
+			"url": "http://ponyfoo.com/articles/talk-about-web-performance",
+			"desc": "Let's talk about Web Performance",
+			"tags": ["performance"]
+		},
+		{
+			"url": "http://www.smashingmagazine.com/2015/08/animating-in-keynote/",
+			"desc": "How To Prototype UI Animations In Keynote",
+			"tags": ["ui", "prototype"]
+		},
+		{
+			"url": "http://www.dtelepathy.com/blog/design/captcha-alternatives-better-ux",
+			"desc": "9 CAPTCHA Alternatives That Won’t Wreck Your UX",
+			"tags": ["ux", "captcha"]
+		},
+		{
+			"url": "http://opensignal.com/reports/2015/08/android-fragmentation/",
+			"desc": "Android Fragmentation Visualized",
+			"tags": ["android","fragmentation"]
+		},
+		{
+			"url": "http://www.daveliepmann.com/tufte-css/",
+			"desc": "Tufte CSS",
+			"tags": ["css", "typography"]
+		},
+		{
+			"url": "https://webdesignledger.com/29-online-style-guides",
+			"desc": "29 Well-Designed Online Style Guides",
+			"tags": ["css", "style-guide"]
+		},
+		{
+			"url": "http://www.sitepoint.com/20-docs-guides-front-end-developers-5/",
+			"desc": "20+ Docs and Guides for Front-end Developers (No. 5)",
+			"tags": ["learning"]
+		},
+		{
+			"url": "http://firsttimeux.tumblr.com/",
+			"desc": "First Time User Experiences",
+			"tags": ["ux", "blog"]
+		},
+		{
+			"url": "http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting",
+			"desc": "Lodash: 10 Javascript Utility Functions That You Should Probably Stop Rewriting",
+			"tags": ["js", "lodash"]
+		},
+		{
+			"url": "http://developer.telerik.com/featured/the-javascript-looping-evolution/",
+			"desc": "The JavaScript Looping Evolution",
+			"tags": ["js"]
+		},
+		{
+			"url": "https://wearablesguide.fjordnet.com/",
+			"desc": "A designer's guide to wearables",
+			"tags": ["wearables"]
+		},
+		{
+			"url": "https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property",
+			"desc": "Fix scrolling performance with CSS will-change property",
+			"tags": ["css", "performance"]
+		},
+		{
+			"url": "http://www.p01.org/releases/BLCK4777/BLCK4777_safe.htm",
+			"desc": "Winning 1kb intro released at Assembly 2015",
+			"tags": ["demo", "js"]
+		},
+		{
+			"url": "https://promise-nuggets.github.io/",
+			"desc": "Promise nuggets",
+			"tags": ["js", "promises"]
+		},
+		{
+			"url": "http://techblog.netflix.com/2015/08/making-netflixcom-faster.html",
+			"desc": "Making Netflix.com Faster",
+			"tags": ["performance"]
+		}
+	]
+}

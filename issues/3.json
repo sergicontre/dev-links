@@ -1,0 +1,56 @@
+{
+	"number": "3",
+	"date": "03-05-2015",
+	"items": [
+		{
+			"url": "https://github.com/bendc/sprint",
+			"desc": "Sprint.js - small and efficient library for DOM operations",
+			"tags": ["js", "DOM", "library"]
+		},
+		{
+			"url": "http://davidwalsh.name/webp-images-performance",
+			"desc": "WebP images performance",
+			"tags": ["performance", "webp", "images"]
+		},
+		{
+			"url": "https://css-tricks.com/more-control-over-text-decoration/",
+			"desc": "More control over text-decoration",
+			"tags": ["css", "typography"]
+		},
+		{
+			"url": "https://videos.pexels.com/",
+			"desc": "Video collection on the CC0 license",
+			"tags": ["css", "typography"]
+		},
+		{
+			"url": "http://updates.html5rocks.com/2015/04/devtools-timeline-improvements",
+			"desc": "Chrome DevTools timeline improvements",
+			"tags": ["chrome", "devtools", "performance"]
+		},
+		{
+			"url": "http://devtoolstips.com/post/117168191446/with-devtools-opened-click-and-hold-the-reload",
+			"desc": "How to get more page reload options in Chrome",
+			"tags": ["chrome", "devtools"]
+		},
+		{
+			"url": "https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/",
+			"desc": "Deprecating non-secure HTTP",
+			"tags": ["mozilla", "SSL"]
+		},
+		{
+			"url": "https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/",
+			"desc": "Deprecating non-secure HTTP",
+			"tags": ["mozilla", "SSL"]
+		},
+		{
+			"url": "http://www.smashingmagazine.com/2015/04/29/design-principles-compositional-flow-and-rhythm/",
+			"desc": "Design principles - compositional flow and rhythm",
+			"tags": ["UX", "design"]
+		},
+		{
+			"url": "http://www.creativepark.fr/",
+			"desc": "Great website with amazing and subtle animations",
+			"tags": ["layout-of-the-week","design"]
+		}
+	]
+}

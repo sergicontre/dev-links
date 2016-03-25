@@ -1,0 +1,67 @@
+
+{
+	"number": "13",
+	"date": "13-07-2015",
+	"items": [
+		{
+			"url": "http://www.getmdl.io/",
+			"desc": "Material Design Lite",
+			"tags": ["material-design", "css"]
+		},
+		{
+			"url": "https://medium.com/@addyosmani/exploring-es7-decorators-76ecb65fb841",
+			"desc": "Exploring ES7 decorators",
+			"tags": ["design-pattern", "decorator", "es7"]
+		},
+		{
+			"url": "http://cubedrone.com/comics/c/relentless-persistence",
+			"desc": "Relentless persistence",
+			"tags": ["js", "fun"]
+		},
+		{
+			"url": "http://anvaka.github.io/pm/#/",
+			"desc": "Code Galaxies",
+			"tags": ["visualization"]
+		},
+		{
+			"url": "http://uxmyths.com/",
+			"desc": "UX Myths",
+			"tags": ["ux", "collection"]
+		},
+		{
+			"url": "http://www.webdesignerdepot.com/2015/07/7-secrets-for-enhancing-ux-with-micro-interactions/",
+			"desc": "7 secrets for enhancing UX with micro-interactions",
+			"tags": ["ux", "microinteraction"]
+		},
+		{
+			"url": "http://www.sitepoint.com/10-ways-minimize-reflows-improve-performance/",
+			"desc": "10 Ways to Minimize Reflows and Improve Performance",
+			"tags": ["performance"]
+		},
+		{
+			"url": "http://projects.formidablelabs.com/spectacle/#/0",
+			"desc": "Spectacle - a ReactJS presentation library",
+			"tags": ["reactjs", "presentation", "library"]
+		},
+		{
+			"url": "http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/",
+			"desc": "React.js Introduction For People Who Know Just Enough jQuery To Get By",
+			"tags": ["reactjs", "tutorial"]
+		},
+		{
+			"url": "https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f",
+			"desc": "Introducing Incremental DOM",
+			"tags": ["dom", "performance"]
+		},
+		{
+			"url": "http://www.materialup.com",
+			"desc": "MaterialUp - Material Design, daily",
+			"tags": ["material-design", "collection"]
+		},
+		{
+			"url": "http://blog.scottlogic.com/2015/07/02/surprising-things-about-js.html",
+			"desc": "Seven surprising JavaScript 'Features'",
+			"tags": ["js"]
+		}
+	]
+}

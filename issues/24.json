@@ -1,0 +1,101 @@
+{
+    "number": "24",
+    "date": "28-09-2015",
+    "items": [
+        {
+            "url": "http://bevacqua.github.io/promisees/",
+            "desc": "PromiSEES - promise visualization playground",
+            "tags": ["promises","visualization"]
+        },
+        {
+            "url": "https://stylesheets.co/",
+            "desc": "Stylesheets - CSS tools collection",
+            "tags": ["css","collection"]
+        },
+        {
+            "url": "https://gist.github.com/paulirish/5d52fb081b3570c81e3a",
+            "desc": "What forces layout/reflow. The comprehensive list.",
+            "tags": ["performance","reflow"]
+        },
+        {
+            "url": "http://blogs.adobe.com/dreamweaver/2015/09/css-vs-svg-the-final-roundup.html",
+            "desc": "CSS vs SVG: The Final Round(up)",
+            "tags": ["css","svg"]
+        },
+        {
+            "url": "https://www.expeditedssl.com/aws-in-plain-english",
+            "desc": "AWS in Plain English",
+            "tags": ["aws"]
+        },
+        {
+            "url": "http://williamngan.github.io/pt/",
+            "desc": "Pt — A code experiment on point, form, and space.",
+            "tags": ["visualization"]
+        },
+        {
+            "url": "https://egghead.io/series/how-to-write-an-open-source-javascript-library",
+            "desc": "How to Write an Open Source JavaScript Library",
+            "tags": ["js","library"]
+        },
+        {
+            "url": "https://medium.com/@tubikstudio/ux-ui-to-make-your-product-viral-a323f582edcb",
+            "desc": "UX/UI to make your product viral",
+            "tags": ["ux","ui"]
+        },
+        {
+            "url": "http://twitter.github.io/recess/",
+            "desc": "RECESS - Twitter's CSS Hinter",
+            "tags": ["css"]
+        },
+        {
+            "url": "http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html",
+            "desc": "The State of SVG Animation",
+            "tags": ["svg","animation"]
+        },
+        {
+            "url": "http://xregexp.com/",
+            "desc": "XRegExp - The one of a kind JavaScript regular expression library",
+            "tags": ["regexp"]
+        },
+        {
+            "url": "https://medium.com/android-news/starbucks-android-material-design-142e2c43feb",
+            "desc": "Starbucks Android Material Design",
+            "tags": ["material-design","design"]
+        },
+        {
+            "url": "http://tympanus.net/codrops/2015/09/23/elastic-progress/",
+            "desc": "Elastic Progress",
+            "tags": ["ui","progress"]
+        },
+        {
+            "url": "http://firstaidgit.io/",
+            "desc": "First Aid git",
+            "tags": ["git"]
+        },
+        {
+            "url": "http://www.sitepoint.com/unleash-your-sketch-app-powers-with-7-fantastic-plugins/",
+            "desc": "7 Fantastic Plugins to Level-up Your Sketch App Powers",
+            "tags": ["sketch","plugins"]
+        },
+        {
+            "url": "http://www.blonde.net/blog/2015/09/21/ux-dilemmas-should-we-use-button-or-link",
+            "desc": "UX dilemmas - should we use a button or a link?",
+            "tags": ["ux","button"]
+        },
+        {
+            "url": "http://www.elezea.com/2015/09/how-to-display-threaded-discussions-on-the-web/",
+            "desc": "How to display threaded discussions on the web",
+            "tags": ["ui","threads"]
+        },
+        {
+            "url": "http://codyhouse.co/gem/svg-modal-window/",
+            "desc": "SVG Modal Window | CodyHouse",
+            "tags": ["svg","modal"]
+        },
+        {
+            "url": "http://www.fastcodesign.com/3051342/starbucks-kills-their-line-with-an-app",
+            "desc": "Starbucks Kills Its Line With An App",
+            "tags": ["app"]
+        }
+    ]
+}

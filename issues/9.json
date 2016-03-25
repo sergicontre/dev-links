@@ -1,0 +1,71 @@
+{
+	"number": "9",
+	"date": "14-06-2015",
+	"items": [
+		{
+			"url": "http://www.sitepoint.com/future-generation-css-selectors-level-4/",
+			"desc": "CSS Selectors Level 4",
+			"tags": ["css"]
+		},
+		{
+			"url": "https://leanpub.com/exploring-es6/read",
+			"desc": "Exploring ES6",
+			"tags": ["book", "es6", "es2015", "js"]
+		},
+		{
+			"url": "https://aerotwist.com/blog/polymer-for-the-performance-obsessed/",
+			"desc": "Polymer for the performance obsessed",
+			"tags": ["polymer", "js", "web-components"]
+		},
+		{
+			"url": "http://www.nngroup.com/articles/low-contrast/",
+			"desc": "About problems with low contrast in web design",
+			"tags": ["accessibility", "web-design"]
+		},
+		{
+			"url": "http://uxmag.com/articles/why-web-design-is-dead",
+			"desc": "Why web design is dead",
+			"tags": ["web-design", "future"]
+		},
+		{
+			"url": "http://www.wired.com/2015/06/ios9-proactive-apple-is-going-to-kill-the-home-screen/",
+			"desc": "Apple is going to kill the home screen",
+			"tags": ["ios", "mobile", "apps"]
+		},
+		{
+			"url": "http://www.wired.com/2015/06/apple-google-ecosystem/",
+			"desc": "Apple and Google Race to See Who Can Kill the App First",
+			"tags": ["ios", "android", "apps"]
+		},
+		{
+			"url": "http://www.webdesignerdepot.com/2015/06/safari-9-everything-web-designers-need-to-know-now/",
+			"desc": "Safari 9 - everything what web designers need to know now",
+			"tags": ["safari", "web-design"]
+		},
+		{
+			"url": "https://medium.com/@_atharvapatil/re-imagining-email-what-if-your-inbox-was-like-tinder-40ee46aab2ef",
+			"desc": "Re-imagining email: What if your inbox was like Tinder?",
+			"tags": ["ux", "ui"]
+		},
+		{
+			"url": "http://2kindsofpeople.tumblr.com/",
+			"desc": "2 kinds of people",
+			"tags": ["fun"]
+		},
+		{
+			"url": "http://uiohmy.com/",
+			"desc": "Comparison of iOS and Android app screens",
+			"tags": ["mobile", "apps"]
+		},
+		{
+			"url": "https://css-tricks.com/the-difference-between-throttling-and-debouncing/",
+			"desc": "The difference between throttling and debouncing",
+			"tags": ["js"]
+		},
+		{
+			"url": "http://bitsofco.de/2015/viewport-vs-percentage-units/",
+			"desc": "Viewport vs percentage units",
+			"tags": ["css"]
+		}
+	]
+}

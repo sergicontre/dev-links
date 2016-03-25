@@ -1,0 +1,126 @@
+{
+    "number": "48",
+    "date": "14-03-2016",
+    "items": [
+        {
+            "url": "http://www.sitepoint.com/building-3d-engine-javascript/",
+            "desc": "Building a 3D Engine with JavaScript",
+            "tags": ["js","3d"]
+        },
+        {
+            "url": "http://www.listjs.com/",
+            "desc": "List.js - Search, sort, filters, flexibility to tables, list and more",
+            "tags": ["js","library"]
+        },
+        {
+            "url": "http://jxnblk.com/writing/posts/zero-configuration-react-static-site-generator/",
+            "desc": "Zero-Configuration React Static Site Generator",
+            "tags": ["static-www"]
+        },
+        {
+            "url": "http://ewanvalentine.io/es6-is-beautiful/",
+            "desc": "ES6 is beautiful",
+            "tags": ["es6","js"]
+        },
+        {
+            "url": "https://uxplanet.org/microcopy-tiny-words-with-a-huge-ux-impact-90140acc6e42",
+            "desc": "Microcopy: Tiny Words With A Huge UX Impact",
+            "tags": ["ux","microcopy"]
+        },
+        {
+            "url": "https://css-tricks.com/right-click-logo-show-logo-download-options/",
+            "desc": "Right Click Logo to Show Logo Download Options",
+            "tags": ["ui"]
+        },
+        {
+            "url": "http://www.codelord.net/2016/03/04/using-angular-1-dot-5-s-multiple-transclusion-slots/",
+            "desc": "Using Angular 1.5's Multiple Transclusion Slots",
+            "tags": ["js","angular"]
+        },
+        {
+            "url": "http://thefullstack.xyz/javascript-side-project/",
+            "desc": "A Great JavaScript Side Project is your Most Important Asset",
+            "tags": ["js"]
+        },
+        {
+            "url": "http://www.sitepoint.com/quick-tip-video-player-component-react/",
+            "desc": "Build a Video Player Component in React",
+            "tags": ["js","react"]
+        },
+        {
+            "url": "https://stories.uplabs.com/5-incredible-concepts-of-material-design-f31f2f58b060",
+            "desc": "Distilling 5 Incredible Material Design Concepts",
+            "tags": ["material-design","design"]
+        },
+        {
+            "url": "http://www.sitepoint.com/parallax-burns-converting-photographs-2d-3d-svg/",
+            "desc": "Converting Photographs from 2D to 3D with SVG",
+            "tags": ["svg"]
+        },
+        {
+            "url": "https://dev.opera.com/articles/web-bluetooth-intro/",
+            "desc": "Dev.Opera — An introduction to the Web Bluetooth API",
+            "tags": ["js","bluetooth"]
+        },
+        {
+            "url": "http://bitsofco.de/styling-broken-images/",
+            "desc": "Styling Broken Images",
+            "tags": ["css","img"]
+        },
+        {
+            "url": "http://www.sitepoint.com/cleaning-up-a-css-codebase/",
+            "desc": "Cleaning Up a CSS Codebase",
+            "tags": ["css"]
+        },
+        {
+            "url": "https://www.smashingmagazine.com/2016/03/location-data-web-development-and-the-law/",
+            "desc": "Legal Guidelines For The Use Of Location Data On The Web",
+            "tags": ["location","legal"]
+        },
+        {
+            "url": "https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b",
+            "desc": "State of the Art JavaScript in 2016",
+            "tags": ["js","2016"]
+        },
+        {
+            "url": "http://open-foundry.com/",
+            "desc": "Open Foundry - open source fonts collection",
+            "tags": ["fonts","open-source"]
+        },
+        {
+            "url": "http://www.bennadel.com/blog/3047-creating-specialized-http-clients-in-angular-2-beta-8.htm",
+            "desc": "Creating Specialized HTTP Clients In Angular 2 Beta 8",
+            "tags": ["js","angular","http"]
+        },
+        {
+            "url": "https://medium.com/@housecor/in-defense-of-javascript-classes-e50bf2270a95",
+            "desc": "In Defense of JavaScript Classes",
+            "tags": ["js","es6","classes"]
+        },
+        {
+            "url": "http://zellwk.com/blog/viewport-based-typography/",
+            "desc": "Viewport Unit Based Typography",
+            "tags": ["css","typography"]
+        },
+        {
+            "url": "https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf",
+            "desc": "Hot Reloading in React",
+            "tags": ["js","react"]
+        },
+        {
+            "url": "https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/",
+            "desc": "Maybe we could tone down the JavaScript",
+            "tags": ["js", "ux"]
+        },
+        {
+            "url": "https://stories.dataveyes.com/user-testing-in-data-visualisation-1-3-d426ed4ca2d2",
+            "desc": "User Testing in Data-visualisation",
+            "tags": ["ux"]
+        },
+        {
+            "url": "http://www.websurfmedia.com/10-must-have-angularjs-directives/",
+            "desc": "10 Must-Have AngularJS Directives For Developers",
+            "tags": ["js","angular","directives"]
+        }
+    ]
+}
